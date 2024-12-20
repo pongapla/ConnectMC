@@ -1,0 +1,10 @@
+Error :
+18:4:6>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Leukocyte*
+--------
+
+Error :
+18:4:6>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Nitrite*
+--------
+

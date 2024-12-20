@@ -1,0 +1,15 @@
+Connection :
+10:23:6>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.9.2.4--------
+
+Connection :
+10:26:30>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.9.2.4--------
+
+Connection :
+10:31:40>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.9.10.0--------
+

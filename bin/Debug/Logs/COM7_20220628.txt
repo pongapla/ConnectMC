@@ -1,0 +1,399 @@
+Start :
+9:8:47>>
+COM7 Start !
+--------V.22.06.27.0--------
+
+Start :
+9:9:14>>
+COM7 Start !
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:20>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:9:21>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+5L|1|F
+
+--------V.22.06.27.0--------
+
+Send :
+9:9:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Start :
+9:12:31>>
+COM7 Start !
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:12:39>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+5L|1|F
+
+--------V.22.06.27.0--------
+
+Send :
+9:12:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Error :
+9:13:54>>
+Get IQC DateString was not recognized as a valid DateTime.
+--------
+
+Error :
+9:14:2>>
+AnalyzerInterface.ExtractResult: Object reference not set to an instance of an object.
+--------
+
+Start :
+9:15:51>>
+COM7 Start !
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:15:58>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+5L|1|F
+
+--------V.22.06.27.0--------
+
+Send :
+9:15:59>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Start :
+9:31:15>>
+COM7 Start !
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:23>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+
+Receive :
+9:31:23>>
+ComPortMonitor.Receiver: 
+1H| P |1|201505051151
+2P| 000143254
+3[STX]3O|1|^81038||APTT PT PT% INR
+4R|1|001|32.8|S|||||||||20150505110332
+5L|1|F
+
+--------V.22.06.27.0--------
+
+Send :
+9:31:24>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.27.0--------
+

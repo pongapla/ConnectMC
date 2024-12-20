@@ -1,0 +1,30 @@
+Connection :
+10:58:0>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+10:59:3>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+11:6:22>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+11:7:12>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+11:7:53>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+11:9:40>>
+ Connect Server Database Success. (Server : INNOSRV03\SRV03, Database : LABSRV03, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+

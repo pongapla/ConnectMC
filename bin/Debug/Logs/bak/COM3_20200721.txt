@@ -1,0 +1,1920 @@
+Start :
+7:36:14>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:36:54>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:37:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:37:10>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:37:13>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:38:26>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+7:38:36>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:9:49>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:24:30>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+ :
+10:24:31>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:32>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:32>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:33>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:34>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:35>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:35>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:36>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:37>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:37>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:38>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:39>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:39>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:40>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:41>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:41>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:42>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:43>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:43>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:44>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:45>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:46>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:46>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:47>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:48>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:49>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:49>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:51>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:52>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:52>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:53>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:54>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:55>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:56>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:56>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:24:57>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:24:58>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:24:59>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:0>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:1>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:2>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:3>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:4>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:5>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:5>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:6>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:7>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:8>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:9>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:10>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:11>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:12>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:12>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:13>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:14>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:15>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:16>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:18>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+ :
+10:25:19>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:20>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:20>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:21>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:22>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:23>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:24>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:25>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:26>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:27>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:28>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:29>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:25:30>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:31>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:25:32>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:25:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:25:55>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:30:38>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:30:51>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Start :
+10:33:51>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+ :
+10:50:1>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:2>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:15>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:18>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:19>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:28>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:29>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:30>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:33>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:34>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:36>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:38>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:40>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:42>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:45>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:47>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:49>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:50:52>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:50:55>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:50:57>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:0>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:51:3>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:51:6>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:9>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:51:12>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:51:15>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:20>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:51:23>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:51:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:31>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:51:35>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:51:39>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:44>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:51:48>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:51:52>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:51:57>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:52:1>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:52:6>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:52:11>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:52:15>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:52:20>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:52:26>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:52:31>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:52:36>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:52:41>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:52:47>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:52:52>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:52:58>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:53:3>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:53:9>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:53:16>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:53:21>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:53:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:53:34>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:53:40>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:53:46>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:53:53>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:54:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:54:6>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:54:14>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:54:20>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:54:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:54:35>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:54:41>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:54:48>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:54:56>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:55:3>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:55:10>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:55:18>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:55:26>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:55:33>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:55:42>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:55:49>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:55:57>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:56:5>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:56:13>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:56:21>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:56:30>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:56:38>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:56:46>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:56:56>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:57:4>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:57:13>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:57:23>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:57:32>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:57:41>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:57:52>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:58:1>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:58:10>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:58:21>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:58:30>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:58:40>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:58:50>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:59:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:59:9>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:59:20>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+10:59:30>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+10:59:39>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+10:59:51>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:0:1>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:0:11>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:0:23>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:0:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:0:44>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:0:55>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+ :
+11:1:7>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:1:17>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:1:28>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:1:39>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:1:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:2:0>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:2:12>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:2:22>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:2:32>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:2:44>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:2:54>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:3:5>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:3:16>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:3:27>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:3:37>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:3:49>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:3:59>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:4:10>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:4:21>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:4:32>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:4:43>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:4:55>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:5:5>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:5:16>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:5:28>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:5:39>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:5:50>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:6:2>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:6:12>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:6:23>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:6:34>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:6:45>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:6:55>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:7:7>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:7:17>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:7:28>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:7:39>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:7:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:8:0>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:8:12>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:8:22>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:8:33>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:8:44>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:8:54>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:9:5>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:9:16>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:9:27>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:9:37>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:9:49>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:10:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:10:10>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:10:22>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:10:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:10:43>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:10:55>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:11:6>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:11:16>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:11:28>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:11:39>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:11:49>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:12:1>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:12:11>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:12:22>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:12:34>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:12:45>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:12:55>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:13:7>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:13:18>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:13:29>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:13:40>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:13:51>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:14:2>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:14:14>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:14:25>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:14:36>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:14:47>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:14:58>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:15:9>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:15:21>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:15:32>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:15:43>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:15:55>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:16:7>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:16:18>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:16:30>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:16:41>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:16:52>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:17:4>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:17:15>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:17:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:17:39>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:17:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:18:1>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:18:13>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:18:24>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:18:35>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:18:47>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:18:58>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:19:9>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:19:21>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:19:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:19:44>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:19:56>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:20:7>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:20:19>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:20:31>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:20:42>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:20:53>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:21:5>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:21:16>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:21:27>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:21:40>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:21:51>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:22:2>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:22:14>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:22:25>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:22:36>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:22:48>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:22:59>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:23:10>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:23:22>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:23:33>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:23:45>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:23:56>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:24:7>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:24:18>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:24:30>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:24:42>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:24:53>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:25:6>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:25:18>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:25:29>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:25:42>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:25:53>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:26:5>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:26:17>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:26:29>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:26:40>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:26:53>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:27:5>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:27:17>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:27:29>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:27:41>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:27:53>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:28:6>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:28:17>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:28:29>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:28:41>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:28:52>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:29:3>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:29:16>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:29:28>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:29:40>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:29:52>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:30:3>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:30:14>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:30:27>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:30:38>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:30:50>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:31:2>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:31:14>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:31:26>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:31:39>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:31:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:32:2>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:32:15>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:32:26>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:32:38>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:32:50>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:33:2>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:33:14>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:33:26>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:33:38>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:33:50>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:34:2>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:34:14>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:34:25>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:34:38>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:34:50>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:35:1>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:35:14>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:35:25>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:35:37>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:35:49>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:36:0>>
+COM3 Start !
+--------V.9.11.25.1--------
+
+Error :
+11:36:12>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+ :
+11:36:24>>
+COM3 Access to the port 'COM3' is denied.
+--------V.9.11.25.1--------
+
+Start :
+11:36:36>>
+COM3 Start !
+--------V.9.11.25.1--------
+

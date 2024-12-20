@@ -1,0 +1,100 @@
+cal :
+9:43:25>>
+ Calculating (Specimen_type_id : 180020001  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:34>>
+ Calculating (Specimen_type_id : 180020028  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:36>>
+ Calculating (Specimen_type_id : 180020037  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:38>>
+ Calculating (Specimen_type_id : 180020064  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:39>>
+ Calculating (Specimen_type_id : 180020085  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:40>>
+ Calculating (Specimen_type_id : 180020088  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:42>>
+ Calculating (Specimen_type_id : 180020091  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:43>>
+ Calculating (Specimen_type_id : 180020109  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:45>>
+ Calculating (Specimen_type_id : 180020133  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:46>>
+ Calculating (Specimen_type_id : 180020160  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:48>>
+ Calculating (Specimen_type_id : 180020163  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:49>>
+ Calculating (Specimen_type_id : 180020217  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:54>>
+ Calculating (Specimen_type_id : 180020223  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:56>>
+ Calculating (Specimen_type_id : 180020232  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:57>>
+ Calculating (Specimen_type_id : 180020241  )
+--------V.8.2.7.1--------
+
+cal :
+9:43:59>>
+ Calculating (Specimen_type_id : 180020247  )
+--------V.8.2.7.1--------
+
+cal :
+9:44:1>>
+ Calculating (Specimen_type_id : 180020253  )
+--------V.8.2.7.1--------
+
+cal :
+9:44:2>>
+ Calculating (Specimen_type_id : 180020280  )
+--------V.8.2.7.1--------
+
+cal :
+9:44:3>>
+ Calculating (Specimen_type_id : 180020316  )
+--------V.8.2.7.1--------
+
+cal :
+9:44:44>>
+ Calculating (Specimen_type_id : 180020154  )
+--------V.8.2.7.1--------
+

@@ -1,0 +1,6 @@
+INFO  2018-11-13 10:12:59,905 19516ms ComPortMonitor         Receiver           - COM7 : ResultStrFirstRead : 
+INFO  2018-11-13 10:12:59,938 19549ms ComPortMonitor         Receiver           - COM7 : ResultStr : 
+INFO  2018-11-13 10:13:14,871 34482ms ComPortMonitor         Receiver           - COM7 : ResultStrFirstRead : 
+INFO  2018-11-13 10:13:14,875 34486ms ComPortMonitor         Receiver           - COM7 : ResultStr : 
+INFO  2018-11-13 10:13:30,049 49660ms ComPortMonitor         Receiver           - COM7 : ResultStrFirstRead : 
+INFO  2018-11-13 10:13:30,052 49663ms ComPortMonitor         Receiver           - COM7 : ResultStr : 

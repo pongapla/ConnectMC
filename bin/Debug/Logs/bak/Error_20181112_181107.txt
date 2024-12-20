@@ -1,0 +1,6 @@
+Error :
+18:11:14>>
+ComportMonitor.New: The PortName cannot be empty.
+Parameter name: PortName
+--------V.8.11.12.2--------
+

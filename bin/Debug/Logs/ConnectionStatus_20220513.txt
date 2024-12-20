@@ -1,0 +1,80 @@
+Connection :
+13:41:14>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.03.1--------
+
+Connection :
+13:43:40>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.0--------
+
+Connection :
+14:0:43>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.1--------
+
+Connection :
+14:1:48>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.1--------
+
+Connection :
+14:7:45>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.2--------
+
+Connection :
+14:15:31>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.2--------
+
+Connection :
+14:20:37>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.3--------
+
+Connection :
+14:30:42>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.4--------
+
+Connection :
+14:40:13>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.5--------
+
+Connection :
+14:50:50>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.5--------
+
+Connection :
+14:52:0>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.5--------
+
+Connection :
+14:56:11>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.6--------
+
+Connection :
+16:23:44>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.7--------
+
+Connection :
+16:37:35>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.8--------
+
+Connection :
+17:9:24>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.8--------
+
+Connection :
+17:12:17>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.13.10--------
+

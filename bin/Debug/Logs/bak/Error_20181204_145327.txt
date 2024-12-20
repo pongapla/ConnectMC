@@ -1,0 +1,22 @@
+Receive :
+14:53:27>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018120414533131
+2P|1|innotech||innotech|?????^?????||20000101|MF8
+3O|1|180316131|180316131^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F3E
+
+--------V.8.12.4.2--------
+
+Send :
+14:53:27>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.4.2--------
+
+Receive :
+14:53:28>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018120414533131
+2P|1|innotech||innotech|?????^?????||20000101|MF8
+3O|1|180316131|180316131^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F3E
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181204144715|i1SR0179304
+
+--------V.8.12.4.2--------
+

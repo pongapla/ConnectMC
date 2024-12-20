@@ -1,0 +1,165 @@
+Connection :
+13:17:30>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:22:15>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:26:26>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:30:17>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:42:18>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:44:20>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+13:58:31>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+15:42:52>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:7:51>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:14:58>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:23:32>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:26:17>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:31:27>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:51:10>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+17:58:32>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+18:1:39>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+18:20:19>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+20:35:47>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+21:18:57>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+21:26:24>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+21:28:52>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+21:32:7>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+21:57:18>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+22:20:32>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+22:24:25>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+22:49:34>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+22:50:8>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:0:27>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:2:28>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:3:56>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:7:0>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:11:34>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+23:23:23>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+

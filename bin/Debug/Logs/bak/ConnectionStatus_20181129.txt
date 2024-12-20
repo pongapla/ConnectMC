@@ -1,0 +1,65 @@
+Connection :
+13:59:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+14:32:28>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+14:35:49>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+14:43:0>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+15:11:28>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+15:15:10>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+15:17:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+15:34:33>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+15:57:15>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+16:3:4>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+16:3:34>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+16:5:30>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+
+Connection :
+16:10:32>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.29.1--------
+

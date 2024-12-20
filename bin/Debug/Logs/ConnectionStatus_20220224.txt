@@ -1,0 +1,5 @@
+Connection :
+12:38:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.02.21.0--------
+

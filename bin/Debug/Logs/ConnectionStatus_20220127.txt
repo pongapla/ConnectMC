@@ -1,0 +1,70 @@
+Connection :
+10:18:46>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.22.0--------
+
+Connection :
+11:31:42>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.22.0--------
+
+Connection :
+11:33:10>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.22.0--------
+
+Connection :
+11:39:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.22.0--------
+
+Connection :
+11:50:10>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.0--------
+
+Connection :
+11:51:21>>
+ Connect Server Database Fail. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.22.01.27.0--------
+
+Connection :
+21:21:1>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.0--------
+
+Connection :
+21:21:35>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.0--------
+
+Connection :
+21:40:43>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.0--------
+
+Connection :
+21:41:59>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.1--------
+
+Connection :
+22:17:23>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.1--------
+
+Connection :
+22:17:52>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.2--------
+
+Connection :
+22:37:28>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.3--------
+
+Connection :
+22:57:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.01.27.4--------
+

@@ -1,0 +1,40 @@
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Glucose*         
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Protein*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Ketone*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Urobilinogen*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Bilirubin*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Blood*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Leukocyte*
+--------
+
+Error :
+12:23:22>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Nitrite*
+--------
+

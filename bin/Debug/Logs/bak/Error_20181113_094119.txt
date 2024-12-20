@@ -1,0 +1,10 @@
+DX300 :
+9:41:19>>
+TESTGolf
+--------
+
+Test H-500-001 :
+9:41:19>>
+Could not load type 'System.Data.CommandType' from assembly 'innotech.islimanalyzers, Version=8.11.12.7, Culture=neutral, PublicKeyToken=null' due to value type mismatch.
+--------
+

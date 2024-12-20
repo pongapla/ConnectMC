@@ -1,0 +1,861 @@
+Receive :
+15:43:4>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+15:43:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:5>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:6>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+2P|13F
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:6>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+2P|13F
+3O|1|B-hCG STATFSRPREC1|B-hCG STATFSRPREC1^Y480^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||Q||||||||||||||F03
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:7>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+2P|13F
+3O|1|B-hCG STATFSRPREC1|B-hCG STATFSRPREC1^Y480^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||Q||||||||||||||F03
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^SERVICE PRECISION^F|20.62|mIU/mL|-5000.00 TO 15000.00|||F||FSE^FSE||20181120170437|i1SR0179342
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:8>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+2P|13F
+3O|1|B-hCG STATFSRPREC1|B-hCG STATFSRPREC1^Y480^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||Q||||||||||||||F03
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^SERVICE PRECISION^F|20.62|mIU/mL|-5000.00 TO 15000.00|||F||FSE^FSE||20181120170437|i1SR0179342
+5R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^SERVICE PRECISION^P|3876|RLU||||F||FSE^FSE||20181120170437|i1SR0179347
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:8>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+15:43:9>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301543002B
+2P|13F
+3O|1|B-hCG STATFSRPREC1|B-hCG STATFSRPREC1^Y480^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||Q||||||||||||||F03
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^SERVICE PRECISION^F|20.62|mIU/mL|-5000.00 TO 15000.00|||F||FSE^FSE||20181120170437|i1SR0179342
+5R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^SERVICE PRECISION^P|3876|RLU||||F||FSE^FSE||20181120170437|i1SR0179347
+6L|13F
+
+--------V.8.11.29.1--------
+
+Send :
+15:43:9>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Error :
+15:43:9>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. B-hCG STATFSRPREC1
+--------
+
+Start :
+18:16:31>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Receive :
+18:22:25>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:22:25>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:22:26>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301822212E
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:26>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:22:26>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301822212E
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:27>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:22:27>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|201811301822212E
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:28>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:22:28>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:22:28>>
+1H|\^&|||Host|||||||P|1|201811301822289B
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:22:29>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:22:29>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811301822289B
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:29>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:30>>
+ComPortMonitor.Send: 3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+
+--------V.8.11.29.1--------
+
+Send :
+18:22:30>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.29.1--------
+
+Start :
+18:25:54>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Receive :
+18:26:36>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:26:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:26:36>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018263234
+
+--------V.8.11.29.1--------
+
+Send :
+18:26:37>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:26:37>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018263234
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:26:37>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:26:38>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018263234
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:26:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:26:39>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:26:39>>
+1H|\^&|||Host|||||||P|1|20181130182639A1
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:26:39>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:26:39>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|20181130182639A1
+
+--------V.8.11.29.1--------
+
+Send :
+18:26:40>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Start :
+18:29:30>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Receive :
+18:29:47>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:29:48>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:29:48>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018294339
+
+--------V.8.11.29.1--------
+
+Send :
+18:29:48>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:29:49>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018294339
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:29:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:29:49>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018294339
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:29:50>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:29:51>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:29:51>>
+1H|\^&|||Host|||||||P|1|201811301829519E
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:29:51>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:29:51>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811301829519E
+
+--------V.8.11.29.1--------
+
+Send :
+18:29:52>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Start :
+18:31:8>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Error :
+18:32:33>>
+ComportMonitor.Receiver: The port is closed.
+--------V.8.11.29.1--------
+
+Start :
+18:33:24>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Start :
+18:35:11>>
+COM3 Start !
+--------V.8.11.29.1--------
+
+Receive :
+18:35:29>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:35:29>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:29>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018312431
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:30>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:30>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018312431
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:30>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:31>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018312431
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:31>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:35:32>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:35:32>>
+1H|\^&|||Host|||||||P|1|201811301835329A
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:35:32>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:35:32>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811301835329A
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:33>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:33>>
+ComPortMonitor.Send: 3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:33>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.29.1--------
+
+Receive :
+18:35:34>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:35:34>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:35>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353032
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:35>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353032
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:36>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353032
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:35:37>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:35:37>>
+1H|\^&|||Host|||||||P|1|201811301835379F
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:35:37>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:35:37>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811301835379F
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:38>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:38>>
+ComPortMonitor.Send: 3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:39>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.29.1--------
+
+Receive :
+18:35:39>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:35:39>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:40>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353537
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:40>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:40>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353537
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:41>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:41>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018353537
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:41>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:35:42>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:35:42>>
+1H|\^&|||Host|||||||P|1|201811301835429B
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:35:42>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:35:42>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811301835429B
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:43>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:43>>
+ComPortMonitor.Send: 3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:44>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.29.1--------
+
+Receive :
+18:35:44>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:35:44>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:45>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018354033
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:45>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:45>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018354033
+2Q|1|^180309516||^^^ALL||||||||O05
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:46>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:46>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018354033
+2Q|1|^180309516||^^^ALL||||||||O05
+3L|13C
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:46>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Send :
+18:35:47>>
+Send to Architect i1000.
+--------
+
+Imola :
+18:35:47>>
+1H|\^&|||Host|||||||P|1|20181130183547A0
+2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+4L|13D
+
+--------
+
+Send :
+18:35:47>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.29.1--------
+
+Send :
+18:35:48>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|20181130183547A0
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:48>>
+ComPortMonitor.Send: 2P|1|001|||ทำความดี^ตรัย^||19760201|M|||||||||||||||||07
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:48>>
+ComPortMonitor.Send: 3O|1|180309516||^^^30|||||||A|Hep|lipemic||serum||||||||||QEB
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:49>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.29.1--------
+
+Receive :
+18:35:49>>
+ComPortMonitor.Receiver: 
+--------V.8.11.29.1--------
+
+Send :
+18:35:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:50>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:50>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:50>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:51>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:52>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181128140127|i1SR0179302
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:52>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181128140127|i1SR0179302
+5C|1|I|Hep - lipemic - serum|G3F
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:53>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:53>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181128140127|i1SR0179302
+5C|1|I|Hep - lipemic - serum|G3F
+6R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||ADMIN^ADMIN||20181128140127|i1SR01793EF
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:53>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:54>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181128140127|i1SR0179302
+5C|1|I|Hep - lipemic - serum|G3F
+6R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||ADMIN^ADMIN||20181128140127|i1SR01793EF
+7R|3|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^P|391|RLU||||R||ADMIN^ADMIN||20181128140127|i1SR0179355
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Receive :
+18:35:54>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018113018343334
+2P|1|999999999||999999999B5
+3O|1|2819|2819^Y453^4|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F56
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||ADMIN^ADMIN||20181128140127|i1SR0179302
+5C|1|I|Hep - lipemic - serum|G3F
+6R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||ADMIN^ADMIN||20181128140127|i1SR01793EF
+7R|3|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^P|391|RLU||||R||ADMIN^ADMIN||20181128140127|i1SR0179355
+0L|139
+
+--------V.8.11.29.1--------
+
+Send :
+18:35:55>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.29.1--------
+
+Error :
+18:35:55>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 2819
+--------
+

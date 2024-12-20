@@ -1,0 +1,1838 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ValueSoft.CoreControlsLib
+</name>
+</assembly>
+<members>
+<member name="F:ValueSoft.CoreControlsLib.PaletteEditControl.components">
+	<summary> 
+ Required designer variable.
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.PaletteEditControl.Dispose(System.Boolean)">
+	<summary> 
+ Clean up any resources being used.
+ </summary>
+	<param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member><member name="M:ValueSoft.CoreControlsLib.PaletteEditControl.InitializeComponent">
+	<summary> 
+ Required method for Designer support - do not modify 
+ the contents of this method with the code editor.
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.SelectTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SelectTag.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchSelectTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.CommManager.TransmissionType">
+	<summary>
+ enumeration to hold our transmission types
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.CommManager.MessageType">
+	<summary>
+ enumeration to hold our message types
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.BaudRate">
+	<summary>
+ Property to hold the BaudRate
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.Parity">
+	<summary>
+ property to hold the Parity
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.StopBits">
+	<summary>
+ property to hold the StopBits
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.DataBits">
+	<summary>
+ property to hold the DataBits
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.PortName">
+	<summary>
+ property to hold the PortName
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.CurrentTransmissionType">
+	<summary>
+ property to hold our TransmissionType
+ of our manager class
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.DisplayWindow">
+	<summary>
+ property to hold our display window
+ value
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.Message">
+	<summary>
+ Property to hold the message being sent
+ through the serial port
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ValueSoft.CoreControlsLib.CommManager.Type">
+	<summary>
+ Message to hold the transmission type
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.#ctor(System.String,System.String,System.String,System.String,System.String,System.Windows.Forms.RichTextBox)">
+	<summary>
+ Constructor to set the properties of our Manager Class
+ </summary>
+	<param name="baud">Desired BaudRate</param>
+	<param name="par">Desired Parity</param>
+	<param name="sBits">Desired StopBits</param>
+	<param name="dBits">Desired DataBits</param>
+	<param name="name">Desired PortName</param>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.#ctor">
+	<summary>
+ Comstructor to set the properties of our
+ serial port communicator to nothing
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.HexToByte(System.String)">
+	<summary>
+ method to convert hex string into a byte array
+ </summary>
+	<param name="msg">string to convert</param>
+	<returns>a byte array</returns>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.ByteToHex(System.Byte[])">
+	<summary>
+ method to convert a byte array into a hex string
+ </summary>
+	<param name="comByte">byte array to convert</param>
+	<returns>a hex string</returns>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.DisplayData(ValueSoft.CoreControlsLib.CommManager.MessageType,System.String)">
+	<summary>
+ Method to display the data to and
+ from the port on the screen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.CommManager.comPort_DataReceived(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+	<summary>
+ method that will be called when theres data waiting in the buffer
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+</member><member name="F:ValueSoft.CoreControlsLib.FromTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.FromTag.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchFromTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.GroupByTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.GroupByTag.cTagFirstPart">
+	<summary> 
+ The first part of tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.GroupByTag.cTagSecondPart">
+	<summary> 
+ The second part of tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.GroupByTag.Name">
+	<summary> 
+ Gets the name of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.GroupByTag.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.GroupByTag.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchGroupByTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchGroupByTagAttribute.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchGroupByTagAttribute.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cValueXmlAttributeName">
+	<summary> 
+ The name of the Value xml attribute. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cTagTypeXmlAttributeName">
+	<summary> 
+ The name of the Tag Type xml attribute. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cRootXmlNodeName">
+	<summary> 
+ The name of the root node in the xml representation of a parsed text. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cTagXmlNodeName">
+	<summary> 
+ The name of the Tag xml node. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cTextXmlNodeName">
+	<summary> 
+ The name of the Text xml node. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cWhiteSpace">
+	<summary> 
+ The white space text (is used when adding white 
+ spaces between text elements). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.cNewLine">
+	<summary> 
+ The new line string. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ParserBase.fParsedDocument">
+	<summary> 
+ The tree representation of a parsed document as an xml document. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.Parse(System.String)">
+	<summary> 
+ Parses the specified text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.ParseBlock(System.Xml.XmlNode,ValueSoft.CoreControlsLib.TagBase,System.String,System.Int32)">
+	<summary> 
+ Parses the specified block of a text. 
+ </summary>
+	<returns> 
+ Returns the end position of the parsed block. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.IsTag(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is a tag in the text at the specified position, and returns its type. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.CreateTagXmlNode(ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Creates an xml node for the specified tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.CreateTextXmlNode(System.String)">
+	<summary> 
+ Creates an xml node for the specified text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.SkipWhiteSpace(System.String,System.Int32@)">
+	<summary> 
+ Skips the white space symbols located at the specified position. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.ReadWordOrSeparator(System.String,System.Int32@,System.Boolean)">
+	<summary> 
+ Reads a single word or separator at the specified position. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.CheckTextAndPositionArguments(System.String,System.Int32)">
+	<summary> 
+ Checks the text and position parameters. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.CheckXmlDocInitialized">
+	<summary> 
+ Checks whether the m_ParsedDocument is initialized. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.ToText">
+	<summary> 
+ Returns the text string processed by the parser. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.XmlNodesToText(System.Text.StringBuilder,System.Xml.XmlNodeList)">
+	<summary> 
+ Converts the specified xml node collection to the text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.XmlNodeToText(System.Text.StringBuilder,System.Xml.XmlNode)">
+	<summary> 
+ Converts the specified xml node to text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.IsTagXmlNode(System.Xml.XmlNode)">
+	<summary> 
+ Determines whether the specified node is a tag node. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.IsTextXmlNode(System.Xml.XmlNode)">
+	<summary> 
+ Determines whether the specified node is a text node. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.GetTextNodeText(System.Xml.XmlNode)">
+	<summary> 
+ Returns the text stored in the text node. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.GetXmlNodeValue(System.Xml.XmlNode)">
+	<summary> 
+ Retrieves the value of the specified tag xml node. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.TagXmlNodeToText(System.Text.StringBuilder,System.Xml.XmlNode)">
+	<summary> 
+ Converts the specified tag xml node to text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.TagXmlNodeToTag(System.Xml.XmlNode)">
+	<summary> 
+ Converts the specified tag xml node into a tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.GetTagFromType(System.String,System.String,System.Boolean)">
+	<summary> 
+ Retrurns the tag instance from its type and value. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.ClearXmlNode(System.Xml.XmlNode)">
+	<summary> 
+ Removes all the sub nodes from the specified node. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.ParserBase.CountStringsBefore(System.String,System.Int32,System.String)">
+	<summary> 
+ Returns how many continuous specified strings are before of the specified 
+ position in the specified text 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ParserBase.IsSkipWhiteSpace">
+	<summary> 
+ Indicates whether the white space is considered as a non-valuable 
+ character. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ParserBase.Tags">
+	<summary> 
+ The list of all available tags. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ParserBase.ParsedDocument">
+	<summary> 
+ Gets the parsed document in xml format. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.ParserBase">
+	<summary> 
+ An abstract class which is used as the base class for parsers. 
+ It contains basic methods which allow you to create a logical tree 
+ from a document. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.DBNull">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.MarshalByRefObject.__identity">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.MarshalByRefObject">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.Depth">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.DepthSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.FieldCount">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.FieldCountSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.HasRows">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.HasRowsSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.IsClosed">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.IsClosedSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.Item">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.RecordsAffected">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.RecordsAffectedSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.VisibleFieldCount">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader.VisibleFieldCountSpecified">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlDataReader">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.DbType">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.DbTypeSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Direction">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.DirectionSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.IsNullable">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.IsNullableSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Offset">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.OffsetSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.ParameterName">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Precision">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.PrecisionSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Scale">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.ScaleSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Size">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SizeSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SourceColumn">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SourceVersion">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SourceVersionSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SqlDbType">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.SqlDbTypeSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter.Value">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameter">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.AnsiString">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Binary">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Byte">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Boolean">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Currency">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Date">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.DateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Decimal">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Double">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Guid">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Int16">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Int32">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Int64">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Object">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.SByte">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Single">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.String">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Time">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.UInt16">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.UInt32">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.UInt64">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.VarNumeric">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.AnsiStringFixedLength">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.StringFixedLength">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.Xml">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.DateTime2">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum.DateTimeOffset">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDbTypeEnum">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterParameterDirectionEnum.Input">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterParameterDirectionEnum.Output">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterParameterDirectionEnum.InputOutput">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterParameterDirectionEnum.ReturnValue">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterParameterDirectionEnum">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDataRowVersionEnum.Original">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDataRowVersionEnum.Current">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDataRowVersionEnum.Proposed">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDataRowVersionEnum.Default">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterDataRowVersionEnum">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.BigInt">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Binary">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Bit">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Char">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.DateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Decimal">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Float">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Image">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Int">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Money">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.NChar">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.NText">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.NVarChar">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Real">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.UniqueIdentifier">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.SmallDateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.SmallInt">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.SmallMoney">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Text">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Timestamp">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.TinyInt">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.VarBinary">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.VarChar">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Variant">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Xml">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Udt">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Structured">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Date">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.Time">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.DateTime2">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum.DateTimeOffset">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.SqlParameterSqlDbTypeEnum">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.WCFServiceVersion.BuildDate">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.WCFServiceVersion.BuildDateSpecified">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.WCFServiceVersion.Company">
+	<remarks/>
+</member><member name="P:ValueSoft.CoreControlsLib.ValueSoftService.WCFServiceVersion.Version">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.WCFServiceVersion">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.CommandType.Text">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.CommandType.StoredProcedure">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.ValueSoftService.CommandType.TableDirect">
+	<remarks/>
+</member><member name="T:ValueSoft.CoreControlsLib.ValueSoftService.CommandType">
+	<remarks/>
+</member><member name="F:ValueSoft.CoreControlsLib.BracesTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.BracesTag.cStartTag">
+	<summary> 
+ The start of the tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.BracesTag.cEndTag">
+	<summary> 
+ The end of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.InitializeCoreFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified word and separator array. 
+ </summary>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.MatchEnd(System.String,System.Int32)">
+	<summary> 
+ Returns a value indicating whether there is the tag ending at the specified position. /// 
+ </summary>
+	<returns> 
+ If this value is less than zero, then there is no ending; otherwise the 
+ position after ending is returned. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.WriteEnd(System.Text.StringBuilder)">
+	<summary> 
+ Writes the end of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.MatchStartStatic(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag start at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag start at the position. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.BracesTag.MatchEndStatic(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag end at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag end at the position. 
+ </returns>
+</member><member name="F:ValueSoft.CoreControlsLib.SqlParser.fTags">
+	<summary> 
+ Stores the types of all the possible tags. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SqlParser.IsSkipWhiteSpace">
+	<summary> 
+ Indicates whether the white space is a non-valueable character. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SqlParser.Tags">
+	<summary> 
+ Returns the list of all the available tags. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SqlParser.GetForUpdateTagXmlNode">
+	<summary> 
+ Returns the xml node which corresponds to the For Update tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SqlParser.IsTag(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is a tag in the text at the specified position, and returns its tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SqlParser.FromClause">
+	<summary> 
+ Gets or sets the Select Form of the parsed sql. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SqlParser.GetFromTagXmlNode">
+	<summary> 
+ Returns the xml node which corresponds to the From tag. 
+ If this node does not exist, this method generates an 
+ exception. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SqlParser.GetWhereTagXmlNode(System.Boolean)">
+	<summary> 
+ Returns the xml node which corresponds to the Where tag. 
+ If this node does not exist, creates a new one (if needed). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SqlParser.WhereClause">
+	<summary> 
+ Gets or sets the Where clause of the parsed sql. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SqlParser.GetOrderByTagXmlNode(System.Boolean)">
+	<summary> 
+ Returns the xml node which corresponds to the Order By tag. 
+ If this node does not exist, creates a new one (if needed). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SqlParser.OrderByClause">
+	<summary> 
+ Gets or sets the Order By clause of the parsed sql. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ForUpdateTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ForUpdateTag.cTagFirstPart">
+	<summary> 
+ The first part of tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.ForUpdateTag.cTagSecondPart">
+	<summary> 
+ The second part of tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ForUpdateTag.Name">
+	<summary> 
+ Gets the name of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ForUpdateTag.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.ForUpdateTag.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchForUpdateTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchForUpdateTagAttribute.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchForUpdateTagAttribute.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.SimpleOneWordTag.fParentTag">
+	<summary> 
+ The value of the ParentTag property. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.InitializeCoreFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.MatchStart(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag at the position. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.WriteEnd(System.Text.StringBuilder)">
+	<summary> 
+ Writes the end of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.MatchEnd(System.String,System.Int32)">
+	<summary> 
+ Returns a value indicating whether there is the tag ending at the specified position. 
+ </summary>
+	<returns> 
+ If this value is less than zero, then there is no ending; otherwise the 
+ position after ending is returned. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleOneWordTag.MatchStart(System.String,System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag at the specified position 
+ in the specified sql. 
+ </summary>
+	<name>The value of the Name property.</name>
+	<returns> 
+ The position after the tag or -1 there is no tag at the position. 
+ </returns>
+</member><member name="P:ValueSoft.CoreControlsLib.SimpleOneWordTag.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SimpleOneWordTag.CanTerminateByStringEnd">
+	<summary> 
+ Inidicates whether the string end can be treated as the end of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SimpleOneWordTag.ParentTag">
+	<summary> 
+ Returns the parent tag of this tag in the sql being parsed. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.SimpleOneWordTag">
+	<summary> 
+ The base class for such tags as Select, From etc. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchSimpleOneWordTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleTwoWordTag.MatchStart(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag at the position. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleTwoWordTag.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.SimpleTwoWordTag.MatchStart(System.String,System.String,System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag at the specified position 
+ in the specified sql. 
+ </summary>
+	<name>The value of the Name property.</name>
+	<returns> 
+ The position after the tag or -1 there is no tag at the position. 
+ </returns>
+</member><member name="P:ValueSoft.CoreControlsLib.SimpleTwoWordTag.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.SimpleTwoWordTag.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.SimpleTwoWordTag">
+	<summary> 
+ The base class for such tags as Order By, Group By etc. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchSimpleTwoWordTagAttribute.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchSimpleTwoWordTagAttribute.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.StringLiteralTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.StringLiteralTag.cTagDelimiter">
+	<summary> 
+ The tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.StringLiteralTag.InitializeCoreFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified sql string. 
+ </summary>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.StringLiteralTag.MatchEnd(System.String,System.Int32,System.Int32)">
+	<summary> 
+ Returns a value indicating whether there is the tag ending at the specified position. 
+ </summary>
+	<returns> 
+ If this value is less than zero, then there is no ending; otherwise the 
+ position after ending is returned. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.StringLiteralTag.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.StringLiteralTag.WriteEnd(System.Text.StringBuilder)">
+	<summary> 
+ Writes the end of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.StringLiteralTag.MatchStartStatic(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag start at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag start at the position. 
+ </returns>
+</member><member name="F:ValueSoft.CoreControlsLib.TagBase.fIsInitialized">
+	<summary> 
+ The value of the IsInitialized property. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.TagBase.fHasContents">
+	<summary> 
+ The value of the HasContents property. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.TagBase.fValue">
+	<summary> 
+ The value of the Value property. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.TagBase.fParser">
+	<summary> 
+ The value of the Parser property. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.InitializeFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified word and separator array. 
+ </summary>
+	<param name="parentTag"> 
+ The parent tag of this tag. This argument is used to determine 
+ the end of the tag (it can be the end of the parent tag). 
+ </param>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.InitializeCoreFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified word and separator array. 
+ </summary>
+	<param name="parentTag"> 
+ The parent tag of this tag. This argument is used to determine 
+ the end of the tag (it can be the end of the parent tag). 
+ </param>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.InitializeFromData(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Boolean)">
+	<summary> 
+ Reads the tag from the specified data. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.InitializeFromDataCore(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Boolean)">
+	<summary> 
+ Reads the tag from the specified data. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.GetTagType(System.Type)">
+	<summary> 
+ Returns the type of the specified tag (its identifier). 
+ This method is used by the Type property. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.GetTagMatchAttribute(System.Type)">
+	<summary> 
+ Returns the match attribute of the specified class. 
+ This attribute is used to identify a tag in a text. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.MatchEnd(System.String,System.Int32)">
+	<summary> 
+ Returns a value indicating whether there is the tag ending 
+ at the specified position. 
+ </summary>
+	<returns> 
+ If this value is less than zero, then there is no ending; otherwise the 
+ position after ending is returned. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.WriteEnd(System.Text.StringBuilder)">
+	<summary> 
+ Writes the end of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.TagBase.CheckInitialized">
+	<summary> 
+ Checks whether the tag is initialized, and throws an exception if not. This method should be called before a tag porperty or method is accessed. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.Type">
+	<summary> 
+ Returns the type of the tag (its identifier). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.Value">
+	<summary> 
+ The value of the tag (it can be the text of a string literal for example). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.HasContents">
+	<summary> 
+ Gets a value indicating whether this tag has contents to be parsed. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.CanTerminateByStringEnd">
+	<summary> 
+ Inidicates whether the string end can be treated as the end of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.IsInitialized">
+	<summary> 
+ Indicates whether the tag has been initialized. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.TagBase.Parser">
+	<summary> 
+ The parser which has created this instance. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.TagBase">
+	<summary> 
+ The base class for all the tags. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.MatchTagAttributeBase">
+	<summary> 
+ This attribute is used to determine whether there is certain tag 
+ at a position in a text. 
+ </summary>
+</member><member name="T:ValueSoft.CoreControlsLib.TagTypeAttribute">
+	<summary> 
+ This attribute is used to determine the name (identifier) of a tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.QuotedIdentifierTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.QuotedIdentifierTag.cTagDelimiter">
+	<summary> 
+ The tag delimiter. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.QuotedIdentifierTag.InitializeCoreFromText(ValueSoft.CoreControlsLib.ParserBase,System.String,System.Int32,ValueSoft.CoreControlsLib.TagBase)">
+	<summary> 
+ Reads the tag at the specified position in the specified word and separator array. 
+ </summary>
+	<returns> 
+ The position after the tag (at which to continue reading). 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.QuotedIdentifierTag.WriteStart(System.Text.StringBuilder)">
+	<summary> 
+ Writes the start of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.QuotedIdentifierTag.MatchStartStatic(System.String,System.Int32)">
+	<summary> 
+ Checks whether there is the tag start at the specified position 
+ in the specified sql. 
+ </summary>
+	<returns> 
+ The position after the tag or -1 there is no tag start at the position. 
+ </returns>
+</member><member name="M:ValueSoft.CoreControlsLib.InternetConnectionCheck.IsInternetConnected">
+	<summary>
+ Call this function to know whether the internet is connected or not.
+ </summary>
+	<returns>Boolean</returns>
+	<remarks></remarks>
+</member><member name="T:ValueSoft.CoreControlsLib.InternetConnectionCheck">
+	<summary>
+ Determine whether or not there is a connection to the Internet present on the local machine.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreviewLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Customize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_CustomizeLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Document">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMap">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMapLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHFLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsvLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportFile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportFileLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphicLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtmLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportMht">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportMhtLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdfLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtfLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxtLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportXls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsxLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_FillBackground">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_FillBackgroundLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Find">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_FindLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_HandTool">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Magnifier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePages">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePagesLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_OpenLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMargins">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsModerate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNarrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNormal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsWide">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLandscape">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationPortrait">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PageSetupDialog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Executive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Legal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Letter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Tabloid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperSize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PaperSizeLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Parameters">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ParametersLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Pointer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirectLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PrintLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetupLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SaveLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Scale">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ScaleLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendCsv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendCsvLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendFile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendFileLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphicLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendMht">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendMhtLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendPdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendPdfLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendRtf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendRtfLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendTxt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendTxtLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendXls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsxLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPageLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPageLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPageLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPageLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Watermark">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_WatermarkLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_Zoom">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ZoomIn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ZoomInLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ZoomLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOutLarge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ValueSoft.CoreControlsLib.PrintRibbonControllerResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ValueSoft.CoreControlsLib.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ValueSoft.CoreControlsLib.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:ValueSoft.CoreControlsLib.StartWith.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.StartWith.cTagFirstPart">
+	<summary> 
+ The first part of tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.StartWith.cTagSecondPart">
+	<summary> 
+ The second part of tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.StartWith.Name">
+	<summary> 
+ Gets the name of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.StartWith.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.StartWith.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchStartWithTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchStartWithTagAttribute.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchStartWithTagAttribute.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.String@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+	<param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+	<param name="attributeName">Name of the attribute that will be read.</param>
+	<param name="value">Attribute value read by this method</param>
+	<returns>True if node is found and value is retrieved Successfully.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.Int32@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+	<param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+	<param name="attributeName">Name of the attribute that will be read.</param>
+	<param name="value">Attribute value read by this method</param>
+	<returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.GetAttributeValue(System.Xml.XmlNode@,System.String,System.UInt32@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Gets the value from an attribute at the specified node.
+ </summary>
+	<param name="node">The XmlNode from which this method will get the value of an attribute.</param>
+	<param name="attributeName">Name of the attribute that will be read.</param>
+	<param name="value">Attribute value read by this method</param>
+	<returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+	<param name="node">XmlNode whose attribute will be set.</param>
+	<param name="attributeName">Name of the attribute to set.</param>
+	<param name="value">Value to be set</param>
+	<returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+	<param name="node">XmlNode whose attribute will be set.</param>
+	<param name="attributeName">Name of the attribute to set.</param>
+	<param name="value">Value to be set</param>
+	<returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.SetAttributeValue(System.Xml.XmlNode@,System.String,System.UInt32)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Sets the value of an attribute for a given XmlNode.
+ </summary>
+	<param name="node">XmlNode whose attribute will be set.</param>
+	<param name="attributeName">Name of the attribute to set.</param>
+	<param name="value">Value to be set</param>
+	<returns>True if success.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.GetDataTable(System.Xml.XmlNodeList@)">
+ -----------------------------------------------------------------------------
+ <summary>s 
+ Converts a list of Xml nodes to a DataTable.
+ </summary>
+	<param name="nodelist">List of Xml nodes</param>
+	<returns>DataTable</returns>
+	<remarks>
+ This method convert
+ </remarks>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.GetDataTable(System.Xml.XmlNodeList,System.String,System.Boolean)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Converts a list of Xml nodes to a DataTable and sets one of the columns as a primary key.
+ </summary>
+	<param name="nodelist"></param>
+	<param name="primaryKeyColumn"></param>
+	<param name="autoIncrement"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.UpdateChildNodesWithDataTable(System.Xml.XmlNode,System.Data.DataTable,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Updates the child nodes of "parentNode" by using the fields from a datatable.
+ </summary>
+	<param name="parentNode"></param>
+	<param name="table"></param>
+	<param name="keyField"></param>
+	<remarks>
+ The child nodes that will be updated must have attribute fields that correspond to
+ the DataTable.  The "keyField" will be used to identify the attribute that serves as 
+ an identifier of the rows.  The datatable can have less fields than the nodes so
+ you have the chance to update smaller subsets.
+ Make sure that you did not call "AcceptChanges" before passing the datatable or this
+ function will not find any change.
+ </remarks>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.NodeToString(System.Xml.XmlNode@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Returns contents of an XmlNode in a string.
+ </summary>
+	<param name="node">The XmlNode whose contents will be read into a string.</param>
+	<returns>Xml formatted string with contents of "node" parameter.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.NodeListToString(System.Xml.XmlNodeList)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Convert a XmlNodeList to string
+ </summary>
+	<param name="nodeList"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.DocumentToString(System.Xml.XmlDocument@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Method to convert a XmlDocument to string.
+ </summary>
+	<param name="xmlDoc">XmlDocument that will be converted to string.</param>
+	<returns>A xml formatted string.</returns>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Insert(System.Xml.XmlDocument,System.String)">
+	<summary>
+ Inserts an empty record at the bottom of the hierarchy, creating the
+ tree as required.
+ </summary>
+	<param name="doc">The XmlDocument to which the node will be inserted.</param>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<returns>The XmlNode inserted into the hierarchy.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String[],System.String[])">
+	<summary>
+ Inserts an record with a multiple fields at the bottom of the hierarchy.
+ </summary>
+	<param name="doc">The XmlDocument to which the node will be inserted.</param>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<param name="fields">The attribute names that will be created for the node inserted.</param>
+	<param name="values">The corresponding value of each field.</param>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String,System.String)">
+	<summary>
+ Inserts a record with a single field at the bottom of the hierarchy.
+ </summary>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<param name="field">The field to add to the record.</param>
+	<param name="val">The value assigned to the field.</param>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.Data.DataRow)">
+	<summary>
+ Inserts a record with multiple fields at bottom of the hierarchy.
+ </summary>
+	<param name="doc"></param>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<param name="rowValues">The DataRow values that will be added as attributes.</param>
+	<remarks>
+ The columns names of the DataRow will become the attribute names and 
+ the row values of the DataRow will be the attribute values.
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Insert(System.Xml.XmlDocument,System.String,System.String,System.String[])">
+	<summary>
+ Inserts a record with multiple values at bottom of hierarchy. This is analogous to inserting 
+ a column of data.
+ </summary>
+	<param name="doc"></param>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<param name="field">Name of the attribute to be created at node inserted.</param>
+	<param name="values">Values that will be inserted that correspond to the field name.</param>
+	<remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to insert an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Update(System.Xml.XmlDocument,System.String,System.String,System.String)">
+	<summary>
+ Update a single field in all records in the specified path.
+ </summary>
+	<param name="doc">The XmlDocument whose node will be udpated.</param>
+	<param name="xpath">The xml path.</param>
+	<param name="field">The field name to update.</param>
+	<param name="val">The new value.</param>
+	<returns>The number of records affected.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>
+ The "doc" variable must have a root node.  The path should not contain the root node.
+ The path can contain only the node names or it can contain attributes in XPath query form.
+ For example to update an "Address" node at the bottom, the following is a valid xpath query
+     xpath = "University[@Name='UT']/Student[@Id=12222]/Address"
+ </remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Delete(System.Xml.XmlDocument,System.String)">
+	<summary>
+ Deletes all records of the specified path.
+ </summary>
+	<param name="xpath">The xml XPath query to get to the bottom node.</param>
+	<returns>The number of records deleted.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.QueryScalar(System.Xml.XmlDocument,System.String,System.String)">
+	<summary>
+ Return a single string representing the value of the specified field
+ for the first record encountered.
+ </summary>
+	<param name="xpath">The xml path.</param>
+	<param name="field">The desired field.</param>
+	<returns>A string with the field's value or null.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.Query(System.Xml.XmlDocument,System.String)">
+	<summary>
+ Returns a DataTable for all rows on the path.
+ </summary>
+	<param name="xpath">The xml path.</param>
+	<returns>The DataTable with the returned rows.
+ The row count will be 0 if no rows returned.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.QueryField(System.Xml.XmlDocument,System.String,System.String)">
+	<summary>
+ Returns an array of values for the specified field for all rows on
+ the path.
+ </summary>
+	<param name="xpath">The xml path.</param>
+	<param name="field">The desired field.</param>
+	<returns>The array of string values for each row qualified by the path.
+ A null is returned if the query results in 0 rows.</returns>
+	<exception cref="T:System.ArgumentNullException">Thrown when an argument is null.</exception>
+	<remarks>Additional exceptions may be thrown by the XmlDocument class.</remarks>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.InsertNode(System.Xml.XmlNode,System.String[],System.Int32)">
+	<summary>
+ Inserts a node at the specified segment if it doesn't exist, otherwise
+ traverses the node.
+ </summary>
+	<param name="node">The current node.</param>
+	<param name="segments">The path segment list.</param>
+	<param name="idx">The current segment.</param>
+	<returns></returns>
+</member><member name="M:ValueSoft.CoreControlsLib.XmlHelper.CreateColumns(System.Data.DataTable,System.Xml.XmlNode)">
+	<summary>
+ Creates columns given an XmlNode.
+ </summary>
+	<param name="dt">The target DataTable.</param>
+	<param name="node">The source XmlNode.</param>
+</member><member name="P:ValueSoft.CoreControlsLib.InstalledProgram.DisplayName">
+	<summary>
+ The name that would be displayed in Add/Remove Programs
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.InstalledProgram.Version">
+	<summary>
+ The version of the program
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.InstalledProgram.ParentDisplayName">
+	<summary>
+ If this program is an update then this will contain the display name of the product that 
+ this is an update to
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.InstalledProgram.IsUpdate">
+	<summary>
+ Is this program classed as an update 
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.InstalledProgram.GetInstalledPrograms(System.Boolean)">
+	<summary>
+ Retrieves a list of all installed programs on the local computer
+ </summary>
+</member><member name="M:ValueSoft.CoreControlsLib.InstalledProgram.GetInstalledPrograms(System.String,System.Boolean)">
+	<summary>
+ Retrieves a list of all installed programs on the specified computer
+ </summary>
+	<param name="ComputerName">The name of the computer to get the list of installed programs from</param>
+	<param name="IncludeUpdates">Determines whether or not updates for installed programs are included in the list</param>
+</member><member name="T:ValueSoft.CoreControlsLib.InstalledProgram">
+	<summary>
+ Represents a program that is installed on a PC
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.WhereTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.WhereTag.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchWhereTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.OrderByTag.cTagName">
+	<summary> 
+ The name of the tag (its identifier). 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.OrderByTag.cTagFirstPart">
+	<summary> 
+ The first part of tag. 
+ </summary>
+</member><member name="F:ValueSoft.CoreControlsLib.OrderByTag.cTagSecondPart">
+	<summary> 
+ The second part of tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.OrderByTag.Name">
+	<summary> 
+ Gets the name of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.OrderByTag.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.OrderByTag.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchOrderByTagAttribute.Name">
+	<summary> 
+ Gets the name of the tag (its identifier and sql text) 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchOrderByTagAttribute.FirstWord">
+	<summary> 
+ Gets the first word of the tag. 
+ </summary>
+</member><member name="P:ValueSoft.CoreControlsLib.MatchOrderByTagAttribute.SecondWord">
+	<summary> 
+ Gets the second word of the tag. 
+ </summary>
+</member>
+</members>
+</doc>

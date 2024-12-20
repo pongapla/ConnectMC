@@ -1,0 +1,85 @@
+Connection :
+13:40:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+13:57:43>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+14:7:40>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+14:9:38>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+14:28:6>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+14:42:24>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+14:48:40>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:4:22>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:5:21>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:11:58>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:29:35>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:37:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:42:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+15:45:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+18:54:0>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+18:56:55>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+
+Connection :
+19:9:50>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.11.0--------
+

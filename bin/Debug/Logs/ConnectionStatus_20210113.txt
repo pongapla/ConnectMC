@@ -1,0 +1,50 @@
+Connection :
+13:50:24>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+13:57:37>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+14:19:32>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+14:41:56>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+14:48:58>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+14:52:37>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+14:57:31>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+15:5:18>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+15:20:44>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+16:1:27>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+

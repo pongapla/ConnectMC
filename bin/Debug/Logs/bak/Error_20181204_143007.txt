@@ -1,0 +1,5 @@
+Send :
+14:30:7>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.12.4.2--------
+

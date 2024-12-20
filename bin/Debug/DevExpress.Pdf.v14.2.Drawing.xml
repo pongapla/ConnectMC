@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.Pdf.v14.2.Drawing</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.Pdf.PdfPrintPageOrientation">
+
+            <summary>
+                <para>Lists the available document orientation modes.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintPageOrientation.Auto">
+            <summary>
+                <para>The orientation is defined automatically to fit the page content to the specific paper type.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintPageOrientation.Landscape">
+            <summary>
+                <para>Orientation of the document pages is landscape.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintPageOrientation.Portrait">
+            <summary>
+                <para>Orientation of the document pages is portrait.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Pdf.PdfPrintScaleMode">
+
+            <summary>
+                <para>Lists the available document scale modes.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintScaleMode.ActualSize">
+            <summary>
+                <para>Print a document actual size.
+
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintScaleMode.CustomScale">
+            <summary>
+                <para>Scale the printed document by a specific percentage scale factor.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.Pdf.PdfPrintScaleMode.Fit">
+            <summary>
+                <para>Scale the printed document to fit a specific paper size.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.Pdf.PdfPrinterSettings">
+
+            <summary>
+                <para>Provides the additional printer settings to a PDF Viewer.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Pdf.PdfPrinterSettings.#ctor">
+            <summary>
+                <para>Initializes a new instance of the PdfPrinterSettings class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="M:DevExpress.Pdf.PdfPrinterSettings.#ctor(System.Drawing.Printing.PrinterSettings)">
+            <summary>
+                <para>Initializes a new instance of the PdfPrinterSettings class with the specified settings.
+</para>
+            </summary>
+            <param name="settings">
+		A <see cref="T:System.Drawing.Printing.PrinterSettings"/> object.
+
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.PageNumbers">
+            <summary>
+                <para>Specifies the PDF pages to be printed.
+</para>
+            </summary>
+            <value>An array of integer values that correspond to page numbers.
+
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.PageOrientation">
+            <summary>
+                <para>Specifies the orientation of the PDF pages to be printed.
+</para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Pdf.PdfPrintPageOrientation"/> value.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.PrintingDpi">
+            <summary>
+                <para>Specifies the dpi value used to print the PDF document.
+</para>
+            </summary>
+            <value>A <see cref="T:System.Int32"/> value which represents the printing dpi.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.Scale">
+            <summary>
+                <para>Specifies the percentage scale factor of the document to be printed.
+</para>
+            </summary>
+            <value>A <see cref="T:System.Single"/> value which represents the scale factor of the document.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.ScaleMode">
+            <summary>
+                <para>Specifies the document scale mode.
+</para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Pdf.PdfPrintScaleMode"/> value.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Pdf.PdfPrinterSettings.Settings">
+            <summary>
+                <para>Provides access to the current printer settings.
+</para>
+            </summary>
+            <value>An <see cref="T:System.Drawing.Printing.PrinterSettings"/> object containing the current printer settings.
+</value>
+
+
+        </member>
+    </members>
+</doc>

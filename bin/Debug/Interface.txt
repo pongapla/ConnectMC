@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Device>
+    <Port>COM7</Port>
+    <AnalyzerCd>V3600</AnalyzerCd>
+    <AnalyzerDesc>V3600</AnalyzerDesc>
+    <AnalyzerSkey>31</AnalyzerSkey>
+    <SerialNo>1234</SerialNo>
+    <AnalyzerModel>V3600</AnalyzerModel>
+  </Device>
+</NewDataSet>

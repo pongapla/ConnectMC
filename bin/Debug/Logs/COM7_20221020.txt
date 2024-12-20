@@ -1,0 +1,25 @@
+Start :
+18:51:20>>
+COM7 Start !
+--------V.22.10.20.0--------
+
+Receive :
+18:51:29>>
+ComPortMonitor.Receiver1: 
+1H|`^&||||||||||P|E 1394-97|20221020184752
+P|1|65-20723|||à¸™à¸²à¸¢ à¸ªà¸žà¹‚à¸Šà¸„ à¹€à¸¥à¸´à¸¨à¸˜à¸´à¸•à¸´à¸žà¸¤à¸—à¸˜à¸´à¹Œ|||M||||||||0|0
+O|1|0100229470||^^^BUN1`^^^CRENZ|||||||||||SERUM
+R|1|^^^BUN1|21|mg/dl|^DEFAULT|N|N|F||||20221019120737
+C|1|I|Instrument Flag N
+R|2|^^^CRENZ|1.47|mg/dl|^DEFAULT|H|N|F||||20221019120742
+C|1|I|Instrument Flag H
+L|1|N
+0B
+
+--------V.22.10.20.0--------
+
+Error :
+18:53:53>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 0100229470
+--------
+

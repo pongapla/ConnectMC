@@ -1,0 +1,60 @@
+Connection :
+8:52:17>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.0--------
+
+Connection :
+8:55:1>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.22.10.24.2--------
+
+Connection :
+8:56:21>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.0--------
+
+Connection :
+14:32:26>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.1--------
+
+Connection :
+14:51:16>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.2--------
+
+Connection :
+15:16:28>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.3--------
+
+Connection :
+17:35:14>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.3--------
+
+Connection :
+17:42:31>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.4--------
+
+Connection :
+18:40:49>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.5--------
+
+Connection :
+19:1:39>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.6--------
+
+Connection :
+19:27:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.7--------
+
+Connection :
+19:50:41>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.25.7--------
+

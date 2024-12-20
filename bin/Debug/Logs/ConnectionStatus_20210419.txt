@@ -1,0 +1,80 @@
+Connection :
+14:46:58>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:3:14>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:3:28>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:7:15>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:23:22>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:32:25>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:39:25>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:47:11>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:48:33>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:50:53>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+15:56:22>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+16:30:37>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+16:37:27>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+16:42:58>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+16:46:42>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+
+Connection :
+16:59:41>>
+ Connect Server Database Success. (Server : DESKTOP-LTPI2SE, Database : iSLIM_W5, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.31.0--------
+

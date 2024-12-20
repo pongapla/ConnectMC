@@ -1,0 +1,5 @@
+Error :
+11:32:51>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Bilirubin*
+--------
+

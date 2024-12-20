@@ -1,0 +1,1147 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ValueSoft.DALManage
+</name>
+</assembly>
+<members>
+<member name="M:ValueSoft.DALManage.SqlHelper.ExecuteNonQuery(System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Executing Non Query 
+ </summary>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param>
+	<returns>Integer Return Value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlHelper.ExecuteDataSet(System.String,System.Data.DataSet,System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Executing Dataset 
+ </summary>
+	<param name="tableName">Table Name</param>
+	<param name="ds">Dataset</param>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param>
+</member><member name="M:ValueSoft.DALManage.SqlHelper.ExecuteDataTable(System.Data.DataTable,System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Executing Dataset 
+ </summary>
+	<param name="dt">DataTable</param>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param> 
+ Add by Kritsada : 2008-04-29
+
+</member><member name="M:ValueSoft.DALManage.SqlHelper.ExecuteScalar(System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Executing Scalar 
+ </summary>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param>
+	<returns>Object Return Value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlHelper.ExecuteDataReader(System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Executing Data Reader 
+ </summary>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param>
+	<returns>Object Return Value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlHelper.PrepareCommand(System.Data.SqlClient.SqlCommand,System.Data.CommandType,System.String,System.Data.IDbConnection,System.Data.IDbDataParameter[],System.Data.IDbTransaction)">
+	<summary> 
+ Preparing Command 
+ </summary>
+	<param name="cmd">Sql Command</param>
+	<param name="cmdType">Command Type</param>
+	<param name="cmdText">Command Text</param>
+	<param name="con">Connection</param>
+	<param name="paramList">Parameter List</param>
+	<param name="tran">Transaction Object</param>
+</member><member name="P:ValueSoft.DALManage.SqlHelper.CommandTimeOut">
+	<summary> 
+ Get/Sets the CommandTimeOut of the SqlHelper 
+ </summary>
+	<value>Command Time Out</value>
+</member><member name="T:ValueSoft.DALManage.SqlHelper">
+	<summary></summary>
+	<remarks></remarks>
+	<example></example>
+</member><member name="P:ValueSoft.DALManage.IDataProvider.Connection">
+	<summary> 
+ Gets the Connection of the IDataProvider 
+ </summary>
+	<value>Connection</value>
+</member><member name="P:ValueSoft.DALManage.IDataProvider.Transaction">
+	<summary> 
+ Get/Sets the Transaction of the IDataProvider 
+ </summary>
+	<value>Transaction Value</value>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.BeginTransaction">
+	<summary> 
+ Beginning a particular Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.CommitTransaction">
+	<summary> 
+ Committing a particular Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.SaveTransaction(System.String)">
+	<summary> 
+ Method for Saving Transaction 
+ </summary>
+	<param name="savePointName">Save Point Name</param>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.RollbackTransaction">
+	<summary> 
+ Method to Roll Back Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.RollbackTransaction(System.String)">
+	<summary> 
+ Method to Roll Back Transaction 
+ </summary>
+	<param name="savePointName">Save Point Name</param>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.BeginTransaction(System.Data.IsolationLevel)">
+	<summary> 
+ Beginning a particular Transaction 
+ </summary>
+	<param name="iLevel">Isolation Level object</param>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteScalar(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing Scalar Command Text 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Object value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteScalar(System.Data.CommandType,System.String)">
+	<summary> 
+ Executing Scalar Command Text 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<returns>Object value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteScalarSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing Scalar Stored Procedure 
+ </summary>
+	<param name="commandText">Command Text to be executed</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Object value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteScalarSP(System.String)">
+	<summary> 
+ Executing Scalar Stored Procedure 
+ </summary>
+	<param name="commandText">Command Text to be executed</param>
+	<returns>Object value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteScalarSP(System.String,System.Object[])">
+	<summary> 
+ Executing Scalar Stored Procedure 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="values">Parameter Array</param>
+	<returns>Object value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteNonQuery(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing Non Query Command 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Integer Return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteNonQuery(System.Data.CommandType,System.String)">
+	<summary> 
+ Executing Non Query Command 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<returns>Integer Return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteNonQuerySP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing non query Stored Procedure 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Integer Return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteNonQuerySP(System.String)">
+	<summary> 
+ Executing non query Stored Procedure 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<returns>Integer Return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteNonQuerySP(System.String,System.Object[])">
+	<summary> 
+ Executing non query Stored Procedure 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="values">Parameter Array</param>
+	<returns>Integer Return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataSet(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing query to get dataset 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Dataset containing results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataSet(System.Data.CommandType,System.String)">
+	<summary> 
+ Executing query to get dataset 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<returns>Dataset containing results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataSetSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing Stored Procedure to get dataset 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Dataset containing results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataSetSP(System.String,System.Object[])">
+	<summary> 
+ Executing Stored Procedure to get dataset 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="values">Parameter Array</param>
+	<returns>Dataset containing results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataSetSP(System.String)">
+	<summary> 
+ Executing a Stored Procedure which returns a Dataset 
+ </summary>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataReader(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing query to Read Data 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Data Reader Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataReader(System.Data.CommandType,System.String)">
+	<summary> 
+ Executing query to Read Data 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text to be executed</param>
+	<returns>Data Reader Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataReaderSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Executing Stored Procedure to Read Data 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Data Reader Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataReaderSP(System.String)">
+	<summary> 
+ Executing Stored Procedure to Read Data 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<returns>Data Reader Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ExecuteDataReaderSP(System.String,System.Object[])">
+	<summary> 
+ Executing Stored Procedure to Read Data 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<param name="values">Parameter Array</param>
+	<returns>Data Reader Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameterArray(System.Int32)">
+	<summary> 
+ Method to get parameter array 
+ </summary>
+	<param name="size">Size of array</param>
+	<returns>Parameter Array</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameterArrayForSP(System.String)">
+	<summary> 
+ Getting Parameter Array For Stored Procedure 
+ </summary>
+	<param name="procName">Stored Procedure Name</param>
+	<returns>Parameter Array</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameter">
+	<summary> 
+ Method to get parameters 
+ </summary>
+	<returns>Parameter value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameter(System.String,System.Data.DbType,System.Object,System.Data.ParameterDirection)">
+	<summary> 
+ Method to get parameters 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base Type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameter(System.String,System.Data.SqlDbType,System.Object,System.Data.ParameterDirection)">
+	<summary> 
+ Method to get parameters 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base Type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameter(System.String,System.Data.DbType,System.Object,System.Data.ParameterDirection,System.Int32)">
+	<summary> 
+ Method to get parameters 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base Type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<param name="size">Size</param>
+	<returns>Parameter value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameter(System.String,System.Data.SqlDbType,System.Object,System.Data.ParameterDirection,System.Int32)">
+	<summary> 
+ Method to get parameters 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base Type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<param name="size">Size</param>
+	<returns>Parameter value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameterCursorType">
+	<summary> 
+ Getting Parameter Cursor Type 
+ </summary>
+	<returns>Parameter Cursor Value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameterCursorType(System.String,System.Data.ParameterDirection)">
+	<summary> 
+ Getting Parameter Cursor Type with parameters 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter Cursor Value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.GetParameterBlobType">
+	<summary> 
+ Getting Parameter Blob Type 
+ </summary>
+	<returns>Parameter Value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.ConvertBlobTypeToByte(System.Object)">
+	<summary> 
+ Converting Blob Type To Byte 
+ </summary>
+	<param name="blob">Blob object</param>
+	<returns>Byte Value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.daUpdate(System.Data.DataSet,System.String)">
+	<summary> 
+ Update data using DataAdapter
+ </summary>
+	<param name="dsArg">DataSet Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.daUpdate(System.Data.DataTable,System.String)">
+	<summary> 
+ Update data using DataAdapter
+ </summary>
+	<param name="dtArg">DataTable Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.daUpdate(System.Data.DataRow,System.String)">
+	<summary> 
+ Update data using DataAdapter
+ </summary>
+	<param name="drArg">DataRow Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.IDataProvider.daUpdate(System.Data.DataRow[],System.String)">
+	<summary> 
+ Update data using DataAdapter
+ </summary>
+	<param name="drArg">DataRow Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="T:ValueSoft.DALManage.IDataProvider">
+	<summary> 
+ This interface is a generic data provider for all database types. 
+ </summary>
+</member><member name="P:ValueSoft.DALManage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ValueSoft.DALManage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ValueSoft.DALManage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.#ctor">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.GetWebVersionCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.GetDateServerCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.daUpdateCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.ExecuteDataReaderCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.ExecuteScalarCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.ExecuteNonQueryCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.ExecuteDataTableCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.PrintPickListCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.PrintSalesOrderCompleted">
+	<remarks/>
+</member><member name="E:ValueSoft.DALManage.WebService.HDDService.FindSalesOrderCompleted">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetWebVersion">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetWebVersionAsync">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetWebVersionAsync(System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetDateServer">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetDateServerAsync">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.GetDateServerAsync(System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.daUpdate(System.Data.DataSet,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.daUpdateAsync(System.Data.DataSet,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.daUpdateAsync(System.Data.DataSet,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataReader(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataReaderAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataReaderAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[],System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteScalar(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteScalarAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteScalarAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[],System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteNonQuery(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteNonQueryAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteNonQueryAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[],System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataTable(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataTableAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[])">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.ExecuteDataTableAsync(ValueSoft.DALManage.WebService.CommandType,System.String,ValueSoft.DALManage.WebService.SqlParameter[],System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintPickList(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintPickListAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintPickListAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintSalesOrder(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintSalesOrderAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.PrintSalesOrderAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.FindSalesOrder(System.String,System.String,System.String,System.DateTime,System.DateTime,System.Data.DataSet@)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.FindSalesOrderAsync(System.String,System.String,System.String,System.DateTime,System.DateTime,System.Data.DataSet)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.FindSalesOrderAsync(System.String,System.String,System.String,System.DateTime,System.DateTime,System.Data.DataSet,System.Object)">
+	<remarks/>
+</member><member name="M:ValueSoft.DALManage.WebService.HDDService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.HDDService">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.WebServiceVersion.Company">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.WebServiceVersion.Version">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.WebServiceVersion.BuildDate">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.WebServiceVersion">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.MarshalByRefObject">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.Depth">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.FieldCount">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.HasRows">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.IsClosed">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.Item">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.RecordsAffected">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlDataReader.VisibleFieldCount">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.SqlDataReader">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.DbType">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.SqlDbType">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Direction">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.IsNullable">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Offset">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.ParameterName">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Precision">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Scale">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Size">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.SourceColumn">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.SourceVersion">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.SqlParameter.Value">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.SqlParameter">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.AnsiString">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Binary">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Byte">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Boolean">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Currency">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Date">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.DateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Decimal">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Double">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Guid">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Int16">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Int32">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Int64">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Object">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.SByte">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Single">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.String">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Time">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.UInt16">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.UInt32">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.UInt64">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.VarNumeric">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.AnsiStringFixedLength">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.StringFixedLength">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.Xml">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.DateTime2">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DbType.DateTimeOffset">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.DbType">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.BigInt">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Binary">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Bit">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Char">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.DateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Decimal">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Float">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Image">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Int">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Money">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.NChar">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.NText">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.NVarChar">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Real">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.UniqueIdentifier">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.SmallDateTime">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.SmallInt">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.SmallMoney">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Text">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Timestamp">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.TinyInt">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.VarBinary">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.VarChar">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Variant">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Xml">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Udt">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Structured">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Date">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.Time">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.DateTime2">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.SqlDbType.DateTimeOffset">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.SqlDbType">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.ParameterDirection.Input">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.ParameterDirection.Output">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.ParameterDirection.InputOutput">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.ParameterDirection.ReturnValue">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ParameterDirection">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DataRowVersion.Original">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DataRowVersion.Current">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DataRowVersion.Proposed">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.DataRowVersion.Default">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.DataRowVersion">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.CommandType.Text">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.CommandType.StoredProcedure">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.WebService.CommandType.TableDirect">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.CommandType">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.GetWebVersionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.GetWebVersionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.GetWebVersionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.GetDateServerCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.GetDateServerCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.GetDateServerCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.daUpdateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.daUpdateCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.daUpdateCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteDataReaderCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.ExecuteDataReaderCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteDataReaderCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteScalarCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.ExecuteScalarCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteScalarCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteNonQueryCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.ExecuteNonQueryCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteNonQueryCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteDataTableCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.ExecuteDataTableCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.ExecuteDataTableCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.PrintPickListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.PrintPickListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.PrintPickListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.PrintSalesOrderCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.PrintSalesOrderCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.PrintSalesOrderCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.FindSalesOrderCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ValueSoft.DALManage.WebService.FindSalesOrderCompletedEventArgs.dsBatchSalesOrder">
+	<remarks/>
+</member><member name="T:ValueSoft.DALManage.WebService.FindSalesOrderCompletedEventArgs">
+	<remarks/>
+</member><member name="F:ValueSoft.DALManage.DataBase.Oracle">
+	<summary> 
+ Oracle Data Base 
+ </summary>
+</member><member name="F:ValueSoft.DALManage.DataBase.MicrosoftSQLServer">
+	<summary> 
+ Microsoft SQL Server Data Base 
+ </summary>
+</member><member name="T:ValueSoft.DALManage.DataBase">
+	<summary> 
+ This enum is required to identify the type of server. 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlParameterCache.#ctor">
+	<summary> 
+ Initializes a new instance of the <b>SqlParameterCache</b> class. 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlParameterCache.GetCachedParameterSet(System.String,System.String,ValueSoft.DALManage.IDataProvider)">
+	<summary> 
+ Getting Cached Parameter Set 
+ </summary>
+	<param name="connectStr">Connection String</param>
+	<param name="procName">Procedure Name</param>
+	<param name="sqlProvider">Sql Provider</param>
+	<returns>Parameter Set</returns>
+</member><member name="M:ValueSoft.DALManage.SqlParameterCache.CloneParameters(System.Data.IDbDataParameter[],ValueSoft.DALManage.IDataProvider)">
+	<summary> 
+ Creates a new object that is a copy of the current instance. 
+ </summary>
+	<param name="origParams">Original Parameters</param>
+	<param name="sqlProvider">Sql Provider</param>
+	<returns>A new object that is a copy of this instance.</returns>
+</member><member name="T:ValueSoft.DALManage.SqlParameterCache">
+	<summary> 
+ Summary Description for Sql Parameter Cache 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.#ctor(System.String)">
+	<summary> 
+ Initializes a new instance of the <b>SqlDataProvider</b> class. 
+ </summary>
+	<param name="sConnection">Connection String</param>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.#ctor(System.String,System.Int32)">
+	<summary> 
+ Initializes a new instance of the <b>SqlDataProvider</b> class. 
+ </summary>
+	<param name="sConnection">Connection String</param>
+	<param name="timeOut">Time out</param>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.#ctor(System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+ Added by Muthukumar
+ </summary>
+	<param name="DataSource"></param>
+	<param name="InitialCatalog"></param>
+	<param name="UserName"></param>
+	<param name="Password"></param>
+	<remarks></remarks>
+</member><member name="P:ValueSoft.DALManage.SqlDataProvider.ErrorMsg">
+	<summary> 
+ Get/Sets the Error of the SqlDataProvider 
+ </summary>
+	<value>ErrorMsg</value>
+</member><member name="P:ValueSoft.DALManage.SqlDataProvider.GetTransactionCount">
+	<summary> 
+ Get Transaction Count of the SqlDataProvider 
+ </summary>
+	<value>GetTransactionCount</value>
+</member><member name="P:ValueSoft.DALManage.SqlDataProvider.Connection">
+	<summary> 
+ Gets the Connection of the SqlDataProvider 
+ </summary>
+	<value>Connection</value>
+</member><member name="P:ValueSoft.DALManage.SqlDataProvider.Transaction">
+	<summary> 
+ Get/Sets the Transaction of the SqlDataProvider 
+ </summary>
+	<value>Transaction</value>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.DataSourceAvailable">
+	<summary> 
+ Check Data Source existance. 
+ </summary>
+	<returns>Status of the data source.</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.BeginTransaction">
+	<summary> 
+ Beginning Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.SaveTransaction(System.String)">
+	<summary> 
+ Saving Transaction 
+ </summary>
+	<param name="savePointName">Save Point Name</param>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.BeginTransaction(System.Data.IsolationLevel)">
+	<summary> 
+ Beginning Transaction 
+ </summary>
+	<param name="iLevel">Isolation Level</param>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.CommitTransaction">
+	<summary> 
+ Committing Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.RollbackTransaction">
+	<summary> 
+ Rollback Transaction 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.RollbackTransaction(System.String)">
+	<summary> 
+ Rollback Transaction 
+ </summary>
+	<param name="savePointName">Save Point Name</param>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteScalar(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Scalar 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">command Text</param>
+	<param name="parameters">Data Parameters</param>
+	<returns></returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteScalar(System.Data.CommandType,System.String)">
+	<summary> 
+ Execute Scalar 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">command Text</param>
+	<returns></returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteScalarSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Scalar SP 
+ </summary>
+	<param name="commandText">commandText</param>
+	<param name="parameters">Data Parameters</param>
+	<returns>Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteScalarSP(System.String)">
+	<summary> 
+ Execute Scalar SP 
+ </summary>
+	<param name="commandText">Command Text</param>
+	<returns>Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteScalarSP(System.String,System.Object[])">
+	<summary> 
+ Execute Scalar SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="values">Parameter values</param>
+	<returns>Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteNonQuery(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Non Query 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<param name="parameters">Parameters</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteNonQuery(System.Data.CommandType,System.String)">
+	<summary> 
+ Execute Non Query 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteNonQuerySP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Non Query SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="parameters">Parameters</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteNonQuerySP(System.String)">
+	<summary> 
+ Execute Non Query SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteNonQuerySP(System.String,System.Object[])">
+	<summary> 
+ Execute Non Query SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="values">Parameter Values</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSet(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute DataSet 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<param name="parameters">Parameter Array</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSet(System.Data.CommandType,System.String)">
+	<summary> 
+ Execute DataSet 
+ </summary>
+	<param name="type">CommandType</param>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSetSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="parameters">Parameters</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSetSP(System.String)">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSetSP(System.String,System.Object[])">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="values">Parameter Values</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSet(System.String,System.Data.DataSet,System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="tableName">Table Name</param>
+	<param name="ds">Dataset</param>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<param name="parameters">Parameters</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataSet(System.String,System.Data.DataSet,System.Data.CommandType,System.String)">
+	<summary> 
+ Execute DataSet 
+ </summary>
+	<param name="tableName">Table Name</param>
+	<param name="ds">Dataset</param>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing Results</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataReader(System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Data Reader 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<param name="parameters">Parameters Array</param>
+	<returns>Data Reader Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataReader(System.Data.CommandType,System.String)">
+	<summary> 
+ Execute Data Reader 
+ </summary>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<returns>Data Reader Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataReaderSP(System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute Data Reader SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="parameters">Parameters Array</param>
+	<returns>Data Reader Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataReaderSP(System.String)">
+	<summary> 
+ Execute Data Reader SP 
+ </summary>
+	<param name="commandText">Command Text</param>
+	<returns>Data Reader Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataReaderSP(System.String,System.Object[])">
+	<summary> 
+ Execute Data Reader SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="values">Parameter Values</param>
+	<returns>Data Reader Object</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameterArray(System.Int32)">
+	<summary> 
+ Getting Parameter Array 
+ </summary>
+	<param name="size">Size of array</param>
+	<returns>SqlParameter list</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameter">
+	<summary> 
+ Getting Parameter 
+ </summary>
+	<returns>Sql Parameter</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameter(System.String,System.Data.DbType,System.Object,System.Data.ParameterDirection)">
+	<summary> 
+ Getting Parameter 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameter(System.String,System.Data.SqlDbType,System.Object,System.Data.ParameterDirection)">
+	<summary> 
+ Getting Parameter 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameter(System.String,System.Data.DbType,System.Object,System.Data.ParameterDirection,System.Int32)">
+	<summary> 
+ Getting Parameter 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<param name="size">Size of parameter</param>
+	<returns>Parameter</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameter(System.String,System.Data.SqlDbType,System.Object,System.Data.ParameterDirection,System.Int32)">
+	<summary> 
+ Getting Parameter 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="type">Data Base type</param>
+	<param name="val">Object Value</param>
+	<param name="direction">Parameter Direction</param>
+	<param name="size">Size of parameter</param>
+	<returns>Parameter</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameterCursorType">
+	<summary> 
+ Getting Parameter Cursor Type 
+ </summary>
+	<returns>Parameter Cursor</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameterCursorType(System.String,System.Data.ParameterDirection)">
+	<summary> 
+ Getting Parameter Cursor Type 
+ </summary>
+	<param name="paramName">Parameter Name</param>
+	<param name="direction">Parameter Direction</param>
+	<returns>Parameter Cursor</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameterBlobType">
+	<summary> 
+ Getting Parameter Blob Type 
+ </summary>
+	<returns>Parameter Blob</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ConvertBlobTypeToByte(System.Object)">
+	<summary> 
+ Converting Blob Type To Byte 
+ </summary>
+	<param name="blob">Blob Object</param>
+	<returns>Byte</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.GetParameterArrayForSP(System.String)">
+	<summary> 
+ Getting Parameter Array For SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<returns>Parameters List</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.Dispose">
+	<summary> 
+ Releases the resources used by the <b>SqlDataProvider</b>. 
+ </summary>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.daUpdate(System.Data.DataSet,System.String)">
+	<summary> 
+ Update data using Dataadapter
+ </summary>
+	<param name="dsArg">DataSet Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.daUpdate(System.Data.DataTable,System.String)">
+	<summary> 
+ Update data using Dataadapter
+ </summary>
+	<param name="dtArg">DataTable Object</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.daUpdate(System.Data.DataRow,System.String)">
+	<summary> 
+ Update data using Dataadapter
+ </summary>
+	<param name="drArg">DataRowObject</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.daUpdate(System.Data.DataRow[],System.String)">
+	<summary> 
+ Update data using Dataadapter
+ </summary>
+	<param name="drArg">DataRowObject</param>
+	<param name="statement">SQL Statement</param>
+	<returns>Integer return value</returns>
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataTable(System.Data.DataTable,System.Data.CommandType,System.String)">
+	<summary> 
+ Execute DataSet 
+ </summary>
+	<param name="dt">DataTable</param>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing Results</returns> 
+ Add by Kritsada : 2008-04-29
+
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataTable(System.Data.DataTable,System.Data.CommandType,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="dt">DataTable</param>
+	<param name="type">Command Type</param>
+	<param name="commandText">Command Text</param>
+	<param name="parameters">Parameters</param>
+	<returns>Dataset Containing Results</returns> 
+ Add by Kritsada : 2008-04-29
+
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataTableSP(System.Data.DataTable,System.String)">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="commandText">Command Text</param>
+	<returns>Dataset Containing Results</returns> 
+ Add by Kritsada : 2008-04-29
+
+</member><member name="M:ValueSoft.DALManage.SqlDataProvider.ExecuteDataTableSP(System.Data.DataTable,System.String,System.Data.IDbDataParameter[])">
+	<summary> 
+ Execute DataSet SP 
+ </summary>
+	<param name="procName">Procedure Name</param>
+	<param name="parameters">Parameters</param>
+	<returns>Dataset Containing Results</returns> 
+ Add by Kritsada : 2008-04-29
+
+</member><member name="T:ValueSoft.DALManage.SqlDataProvider">
+	<summary> 
+ Provider For SQL Data 
+ </summary>
+</member>
+</members>
+</doc>

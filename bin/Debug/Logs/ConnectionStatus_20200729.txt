@@ -1,0 +1,45 @@
+Connection :
+15:17:29>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:19:58>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:40:0>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:44:30>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:46:44>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:51:54>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+15:58:29>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+16:12:9>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.1--------
+
+Connection :
+16:27:56>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.2--------
+

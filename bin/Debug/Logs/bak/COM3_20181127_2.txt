@@ -1,0 +1,67 @@
+Send :
+16:30:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Start :
+17:45:1>>
+COM3 Start !
+--------V.8.11.26.2--------
+
+Receive :
+17:47:18>>
+ComPortMonitor.Receiver: 
+--------V.8.11.26.2--------
+
+Send :
+17:47:19>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+17:47:19>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112717480038
+
+--------V.8.11.26.2--------
+
+Send :
+17:47:19>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+17:47:20>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112717480038
+2Q|1|^180306400||^^^ALL||||||||OFA
+
+--------V.8.11.26.2--------
+
+Send :
+17:47:20>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+17:47:21>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112717480038
+2Q|1|^180306400||^^^ALL||||||||OFA
+3L|13C
+
+--------V.8.11.26.2--------
+
+Send :
+17:47:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Send :
+17:47:22>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.26.2--------
+
+Send :
+17:47:23>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||||2018112717472220
+
+--------V.8.11.26.2--------
+

@@ -1,0 +1,5 @@
+Error :
+11:50:54>>
+TestLisConnection : Login failed for user ''.
+--------
+

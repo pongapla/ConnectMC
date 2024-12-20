@@ -1,0 +1,60 @@
+Connection :
+12:58:16>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+13:3:40>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+13:9:12>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+13:10:19>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+13:14:57>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+13:15:38>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+17:18:6>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+17:46:50>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+17:49:6>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+18:2:13>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+18:52:18>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+
+Connection :
+20:22:9>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.9.17.1--------
+

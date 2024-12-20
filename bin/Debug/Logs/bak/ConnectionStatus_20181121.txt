@@ -1,0 +1,25 @@
+Connection :
+16:11:49>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+
+Connection :
+16:15:54>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+
+Connection :
+16:30:14>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+
+Connection :
+16:37:53>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+
+Connection :
+17:23:59>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+

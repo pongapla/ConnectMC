@@ -1,0 +1,10 @@
+Error :
+11:32:9>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Urobilinogen*
+--------
+
+Error :
+11:32:9>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Bilirubin*
+--------
+

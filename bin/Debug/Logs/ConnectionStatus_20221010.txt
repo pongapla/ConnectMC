@@ -1,0 +1,35 @@
+Connection :
+11:17:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+11:21:53>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+14:10:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+14:11:12>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+14:29:50>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+15:24:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+
+Connection :
+16:14:38>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.10.07.0--------
+

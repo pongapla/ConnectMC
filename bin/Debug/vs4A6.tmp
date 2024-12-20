@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DeviceControlApp
+</name>
+</assembly>
+<members>
+<member name="M:DeviceControlApp.AnalyzerInterface.GetCheckSumValue(System.String)">
+	<summary>
+ Reads checksum of an ASTM frame, calculates characters after STX,
+ up to and including the ETX or ETB. Method assumes the frame contains an ETX or ETB.
+ </summary>
+	<param name="frame">frame of ASTM data to evaluate</param>
+	<returns>string containing checksum</returns>
+</member><member name="P:DeviceControlApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DeviceControlApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DeviceControlApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

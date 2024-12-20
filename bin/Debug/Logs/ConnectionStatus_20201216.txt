@@ -1,0 +1,115 @@
+Connection :
+9:42:25>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.15.1--------
+
+Connection :
+10:3:2>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.15.1--------
+
+Connection :
+11:23:30>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.15.1--------
+
+Connection :
+11:28:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.15.1--------
+
+Connection :
+11:31:5>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.15.1--------
+
+Connection :
+21:41:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+21:43:21>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+21:45:42>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+21:47:38>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+21:50:41>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+21:51:41>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+22:0:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+22:0:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.1--------
+
+Connection :
+22:1:19>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.2--------
+
+Connection :
+22:20:42>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.2--------
+
+Connection :
+22:21:33>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.2--------
+
+Connection :
+22:26:14>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.2--------
+
+Connection :
+22:31:19>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.3--------
+
+Connection :
+22:44:4>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.3--------
+
+Connection :
+22:49:53>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.3--------
+
+Connection :
+22:53:43>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.4--------
+
+Connection :
+22:54:47>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.4--------
+
+Connection :
+22:58:48>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.16.4--------
+

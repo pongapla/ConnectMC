@@ -1,0 +1,3455 @@
+ :
+14:0:48>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:48>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:48>>
+ComportMonitor.Error Start(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:51>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:51>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:51>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:52>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:52>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:52>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:53>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:53>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:54>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:54>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:54>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:55>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:55>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:55>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:56>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:56>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:56>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:57>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:58>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:58>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:58>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:0:59>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:0:59>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:0:59>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:0>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:0>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:0>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:1>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:1>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:1>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+ :
+14:1:2>>
+COM3 The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Error :
+14:1:2>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM3' does not exist.
+--------V.9.1.4.2--------
+
+Start :
+14:1:35>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:1:49>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:1:57>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:2:46>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:3:38>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:3:41>>
+COM3 Start !
+--------V.9.1.4.2--------
+
+Start :
+14:6:2>>
+COM3 Start !
+--------V.9.1.4.2--------
+

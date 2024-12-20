@@ -1,0 +1,15 @@
+Connection :
+11:47:1>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+12:2:33>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+17:12:12>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+

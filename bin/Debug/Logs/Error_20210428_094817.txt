@@ -1,0 +1,12 @@
+Error :
+9:48:17>>
+GetTestLisConnection : Cannot open database "iSLIM_KSP" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+
+Error :
+9:48:17>>
+TestLisConnection : Cannot open database "iSLIM_KSP" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+

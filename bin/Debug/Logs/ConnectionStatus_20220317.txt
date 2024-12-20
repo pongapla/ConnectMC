@@ -1,0 +1,75 @@
+Connection :
+7:21:40>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+9:2:59>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+9:21:0>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+10:34:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+11:1:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+11:50:28>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:7:59>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:17:31>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:22:3>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:24:22>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:27:56>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:37:36>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:38:56>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:46:14>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+16:47:19>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+

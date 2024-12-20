@@ -1,0 +1,55 @@
+Connection :
+15:18:18>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+15:53:10>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+15:59:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:1:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:5:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:8:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:21:12>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:29:0>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:35:22>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:37:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+
+Connection :
+16:57:48>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.10.1.1--------
+

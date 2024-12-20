@@ -1,0 +1,50 @@
+Connection :
+13:11:17>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.11.0--------
+
+Connection :
+13:17:53>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.11.0--------
+
+Connection :
+13:18:37>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.11.0--------
+
+Connection :
+13:27:33>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.11.0--------
+
+Connection :
+13:47:44>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.0--------
+
+Connection :
+17:36:46>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.0--------
+
+Connection :
+19:27:30>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+19:28:36>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+21:18:55>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+
+Connection :
+21:19:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHO, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.16.1--------
+

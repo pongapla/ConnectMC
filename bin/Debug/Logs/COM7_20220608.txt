@@ -1,0 +1,346 @@
+Start :
+14:47:6>>
+COM7 Start !
+--------V.22.06.2.0--------
+
+Start :
+14:47:16>>
+COM7 Start !
+--------V.22.06.2.0--------
+
+Receive :
+14:48:47>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010115158
+P|1|
+O|1|220000037|^1^3|^^^Folate^1\^^^Ferritin^1\^^^VitB12^1\^^^Rub-IgG^1|||||||||||Serum||||||||||F
+R|1|^^^001^1|0.09|ng/mL||N||F||||20001010115045
+C|1|I|RLU, PEX|I
+L|1|F
+E6
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver1: 
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver: 
+--------V.22.06.2.0--------
+
+Send :
+14:48:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:58>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:58>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:59>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:59>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:59>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:59>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+--------V.22.06.2.0--------
+
+Receive :
+14:48:59>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:59>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:48:59>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+
+--------V.22.06.2.0--------
+
+Error :
+14:48:59>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 220000037
+--------
+
+Send :
+14:48:59>>
+Send To Access2.
+--------
+
+Access2 :
+14:48:59>>
+H|\^&|||Host LIS|||||ACCESS||P|1|20220608144859
+P|1|Abel, Cindy
+
+L|1|N68
+
+--------
+
+Send :
+14:48:59>>
+ComPortMonitor.Send: H|\^&|||Host LIS|||||ACCESS||P|1|20220608144859
+P|1|Abel, Cindy
+
+L|1|N68
+
+--------V.22.06.2.0--------
+
+Send :
+14:48:59>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver1: 
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver: 
+--------V.22.06.2.0--------
+
+Send :
+14:50:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+
+--------V.22.06.2.0--------
+
+Receive :
+14:50:33>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:34>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+--------V.22.06.2.0--------
+
+Receive :
+14:50:34>>
+ComPortMonitor.Receiver: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:34>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.2.0--------
+
+Receive :
+14:50:34>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS|||||LIS||P|1|20001010085833
+Q|1|^220000037||ALL||||||||O
+L|1|F
+E6
+
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:34>>
+Send To Access2.
+--------
+
+Access2 :
+14:50:34>>
+H|\^&|||Host LIS|||||ACCESS||P|1|20220608145034
+P|1|Abel, Cindy
+O|01|220000037||^^^001|R||||||A||||Serum|
+L|1|ND2
+
+--------
+
+Send :
+14:50:35>>
+ComPortMonitor.Send: H|\^&|||Host LIS|||||ACCESS||P|1|20220608145034
+P|1|Abel, Cindy
+O|01|220000037||^^^001|R||||||A||||Serum|
+L|1|ND2
+
+--------V.22.06.2.0--------
+
+Send :
+14:50:35>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.2.0--------
+

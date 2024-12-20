@@ -1,0 +1,15 @@
+Connection :
+15:15:50>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VIHS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.22.04.06.3--------
+
+Connection :
+15:21:44>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.06.3--------
+
+Connection :
+17:18:17>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_VGH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.07.1--------
+

@@ -1,0 +1,10 @@
+Error :
+15:29:38>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Cholesterol
+--------
+
+Error :
+15:29:38>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Creatinine
+--------
+

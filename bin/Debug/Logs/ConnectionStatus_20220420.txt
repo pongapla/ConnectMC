@@ -1,0 +1,45 @@
+Connection :
+15:28:15>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.19.2--------
+
+Connection :
+15:58:39>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.19.2--------
+
+Connection :
+16:38:32>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.19.2--------
+
+Connection :
+16:59:18>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+
+Connection :
+19:1:52>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+
+Connection :
+19:16:32>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+
+Connection :
+20:38:31>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+
+Connection :
+20:42:34>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+
+Connection :
+20:43:16>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.20.0--------
+

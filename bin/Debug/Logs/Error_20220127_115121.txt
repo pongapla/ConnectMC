@@ -1,0 +1,10 @@
+Error :
+11:51:21>>
+GetTestLisConnection : Login failed for user 'sa'.
+--------
+
+Error :
+11:51:21>>
+TestLisConnection : Login failed for user 'sa'.
+--------
+

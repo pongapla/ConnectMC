@@ -1,0 +1,40 @@
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+
+Error :
+8:49:42>>
+Form.Main: Cross-thread operation not valid: Control 'lbMessageService' accessed from a thread other than the thread it was created on.
+--------
+

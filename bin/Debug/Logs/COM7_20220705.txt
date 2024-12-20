@@ -1,0 +1,265 @@
+Start :
+13:46:52>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Start :
+14:41:44>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+14:47:13>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+14:59:35>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+Send To Access2.
+--------
+
+Access2 :
+14:59:36>>
+H|\^&|||Host LIS|||||||P|1|2022070514593679
+P|1|AbelCindyF4
+O|1|81039||^^^Cortisol|||||||||||Serum||||||||||F6C
+O|2|81039||^^^Dig|||||||||||Serum||||||||||F32
+L|1|FCB
+
+--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: H|\^&|||Host LIS|||||||P|1|2022070514593679
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: P|1|AbelCindyF4
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: O|1|81039||^^^Cortisol|||||||||||Serum||||||||||F6C
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: O|2|81039||^^^Dig|||||||||||Serum||||||||||F32
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: L|1|FCB
+
+--------V.22.07.01.1--------
+
+Send :
+14:59:36>>
+ComPortMonitor.Send: <EOT>
+--------V.22.07.01.1--------
+
+Receive :
+15:5:24>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+P|1|23445<CR>
+O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|1|^^^Cortisol^1|6.0|uIU/mL||N||F||||20020131113612<CR>
+O|2|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|2|^^^Dig^2|7.0|uIU/mL||N||F||||20020131113648<CR>
+L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+15:5:24>>
+ComportMonitor.Receiver: Index and length must refer to a location within the string.
+Parameter name: length
+--------V.22.07.01.1--------
+
+Receive :
+15:7:14>>
+ComPortMonitor.Receiver1: 13C004900520049005300500069006E0067002F003E000D000A00C4
+H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+P|1|23445<CR>
+O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|1|^^^Cortisol^1|6.0|uIU/mL||N||F||||20020131113612<CR>
+O|2|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|2|^^^Dig^2|7.0|uIU/mL||N||F||||20020131113648<CR>
+L|1|F<CR>
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^Cortisol^1|6.0|uIU/mL||N||F||||20020131113612<CR>
+5O|2|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+1R|2|^^^Dig^2|7.0|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+15:7:14>>
+ComportMonitor.Receiver: Index and length must refer to a location within the string.
+Parameter name: length
+--------V.22.07.01.1--------
+
+Start :
+15:8:20>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+15:8:29>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^Cortisol^1|6.0|uIU/mL||N||F||||20020131113612<CR>
+5O|2|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+1R|2|^^^Dig^2|7.0|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+15:16:26>>
+AnalyzerInterface.UpdateFormula_loop: Result Item 0800012 not found formula
+--------
+

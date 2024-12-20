@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ValueSoft.Common
+</name>
+</assembly>
+<members>
+<member name="P:ValueSoft.Common.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ValueSoft.Common.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ValueSoft.Common.My.Resources.Resources.Map">
+	<summary>
+  Looks up a localized string similar to &lt;html&gt;
+  &lt;head&gt;
+    &lt;meta name="viewport" content="initial-scale=1.0, user-scalable=no" /&gt;
+    &lt;style type="text/css"&gt;
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    &lt;/style&gt;
+    &lt;script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMk5tLxeWdPMIgyC2fU8AjnnF2WOjoIBI&amp;sensor=false"&gt;
+    &lt;/script&gt;
+    &lt;script type="text/javascript"&gt;
+        function initialize() {
+            var locations  [rest of string was truncated]";.
+</summary>
+</member><member name="T:ValueSoft.Common.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

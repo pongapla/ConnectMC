@@ -1,0 +1,75 @@
+ :
+14:36:38>>
+COM5 The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:36:39>>
+COM5 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:36:40>>
+ComportMonitor.Error Start(): The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:36:46>>
+COM5 The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:36:47>>
+COM5 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:36:48>>
+ComportMonitor.Error Start(): The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:37:0>>
+COM5 The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:37:1>>
+COM5 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:37:2>>
+ComportMonitor.Error Start(): The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:37:9>>
+COM5 The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:37:10>>
+COM5 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:37:11>>
+ComportMonitor.Error Start(): The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:37:25>>
+COM5 The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:37:25>>
+COM5 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:37:26>>
+ComportMonitor.Error Start(): The port 'COM5' does not exist.
+--------V.8.12.24.1--------
+

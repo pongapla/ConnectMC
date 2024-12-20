@@ -1,0 +1,10 @@
+Connection :
+9:37:29>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+
+Connection :
+11:7:54>>
+ Connect Server Database Success. (Server : INNOTECH-IT05, Database : iSLIM_SLH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.20.9.17.1--------
+

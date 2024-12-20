@@ -1,0 +1,270 @@
+Start :
+14:30:6>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:30:26>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:30:35>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:35>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:30:35>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:36>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:36>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:37>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:37>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:38>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:38>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:30:38>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Start :
+14:31:10>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:31:17>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:17>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:31:17>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:18>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:18>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:19>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:19>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:20>>
+ComPortMonitor.Receiver.: MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:20>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:31:20>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:39>>
+ComPortMonitor.Receiver.: 
+MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:39>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:31:39>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:40>>
+ComPortMonitor.Receiver.: 
+MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:40>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:41>>
+ComPortMonitor.Receiver.: 
+MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:41>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:42>>
+ComPortMonitor.Receiver.: 
+MSH|^~\&|Autobio|AutoLumo A2000Plus|||20170629165510||ORU^R01|7|P|2.3.1|170629165510846
+OBR|1|81037|341|AutoLumo A2000 Plus
+OBX||CE|001||0^0||||||F
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:42>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:31:42>>
+ComPortMonitor.Send: <ACK>
+--------V.22.06.16.0--------
+
+Start :
+14:33:37>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:33:48>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:35:9>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:40:16>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Error :
+14:41:54>>
+Get IQC DateIndex was outside the bounds of the array.
+--------
+
+Error :
+14:42:0>>
+AnalyzerInterface.ExtractResult: Index was outside the bounds of the array.
+--------
+
+Start :
+14:48:34>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:48:45>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:48:53>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Error :
+14:51:26>>
+Get IQC DateIndex was outside the bounds of the array.
+--------
+
+Start :
+14:52:12>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:54:54>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Error :
+15:2:17>>
+Get IQC DateIndex was outside the bounds of the array.
+--------
+

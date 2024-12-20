@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <LisConnection>
+    <Server>.</Server>
+    <Database>iSLIM_KSP</Database>
+    <User>sa</User>
+    <Password>P@ssw0rd</Password>
+    <Connected>True</Connected>
+  </LisConnection>
+  <Setup>
+    <AutoStart>True</AutoStart>
+    <WriteLog>True</WriteLog>
+    <WaitConnectSecond>0</WaitConnectSecond>
+  </Setup>
+</NewDataSet>

@@ -1,0 +1,65 @@
+Connection :
+14:29:25>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.19.1--------
+
+Connection :
+14:33:7>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:12:15>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:19:34>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:23:23>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:29:35>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:30:15>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:30:49>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.1--------
+
+Connection :
+17:34:15>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.2--------
+
+Connection :
+17:37:1>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.2--------
+
+Connection :
+17:48:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.2--------
+
+Connection :
+17:49:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.2--------
+
+Connection :
+17:51:36>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.11.26.2--------
+

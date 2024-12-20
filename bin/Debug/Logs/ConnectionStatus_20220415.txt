@@ -1,0 +1,5 @@
+Connection :
+11:2:13>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_20220408, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.13.0--------
+

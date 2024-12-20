@@ -1,0 +1,45 @@
+Connection :
+9:42:41>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.21.0--------
+
+Connection :
+12:10:34>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.21.0--------
+
+Connection :
+13:33:28>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+14:42:1>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+16:30:50>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+17:34:14>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+18:13:46>>
+ Connect Server Database Success. (Server : LAPTOP-MGJ8V9BT\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+
+Connection :
+19:21:19>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : False )
+--------V.22.04.22.0--------
+
+Connection :
+19:27:40>>
+ Connect Server Database Success. (Server : DESKTOP-Q93KM42\MSSQLSERVER2, Database : iSLIM_BCL_TEST, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.04.22.0--------
+

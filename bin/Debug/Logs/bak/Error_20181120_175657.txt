@@ -1,0 +1,15 @@
+Error :
+17:56:57>>
+AnalyzerInterface.GetResultCode: @flagScan is not a parameter for procedure sp_lis_interface_get_test_result_model.
+--------
+
+Error :
+17:56:57>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 180299590
+--------
+
+Test AS720 :
+17:56:57>>
+Cannot find column [analyzer_ref_cd].
+--------
+

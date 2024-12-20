@@ -1,0 +1,12 @@
+Error :
+11:2:59>>
+GetTestLisConnection : Cannot open database "iSLIM_VISH" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+
+Error :
+11:2:59>>
+TestLisConnection : Cannot open database "iSLIM_VISH" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+

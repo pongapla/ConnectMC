@@ -1,0 +1,95 @@
+Start :
+13:52:7>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Receive :
+13:52:15>>
+ComPortMonitor.Receiver: 
+--------V.8.12.24.1--------
+
+Send :
+13:52:15>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.24.1--------
+
+Start :
+14:11:8>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Receive :
+14:11:12>>
+ComPortMonitor.Receiver: 
+--------V.8.12.24.1--------
+
+Send :
+14:11:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.24.1--------
+
+ :
+14:35:14>>
+COM3 The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:35:15>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:35:16>>
+ComportMonitor.Error Start(): The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:35:29>>
+COM3 The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:35:29>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:35:30>>
+ComportMonitor.Error Start(): The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+ :
+14:35:43>>
+COM3 The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:35:43>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Error :
+14:35:44>>
+ComportMonitor.Error Start(): The port 'COM3' does not exist.
+--------V.8.12.24.1--------
+
+Start :
+14:38:38>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Start :
+14:49:39>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Start :
+15:10:34>>
+COM3 Start !
+--------V.8.12.24.1--------
+
+Start :
+15:31:39>>
+COM3 Start !
+--------V.8.12.24.1--------
+

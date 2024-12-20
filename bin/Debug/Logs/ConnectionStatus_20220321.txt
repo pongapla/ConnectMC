@@ -1,0 +1,25 @@
+Connection :
+9:59:36>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+11:8:54>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+11:13:54>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+11:46:1>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+12:9:31>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+

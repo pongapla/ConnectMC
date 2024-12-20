@@ -1,0 +1,421 @@
+Start :
+14:36:30>>
+COM7 Start !
+--------V.22.06.28.0--------
+
+Start :
+14:36:58>>
+COM7 Start !
+--------V.22.06.28.0--------
+
+Receive :
+14:37:4>>
+ComPortMonitor.Receiver: 
+--------V.22.06.28.0--------
+
+Send :
+14:37:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:37:4>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.28.0--------
+
+Send :
+14:37:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:37:4>>
+ComPortMonitor.Receiver: 
+H|\\^&||||||||||Q|1|201505 051151 FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:37:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:37:4>>
+ComPortMonitor.Receiver: 
+H|\\^&||||||||||Q|1|201505 051151 FF
+Q|1^81038|||R FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:37:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:37:4>>
+ComPortMonitor.Receiver: 
+H|\\^&||||||||||Q|1|201505 051151 FF
+Q|1^81038|||R FF
+L|1|N FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:37:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:38:38>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.28.0--------
+
+Send :
+14:38:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:38:38>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.06.28.0--------
+
+Send :
+14:38:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:38:38>>
+ComPortMonitor.Receiver: 
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:38:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:38:38>>
+ComPortMonitor.Receiver: 
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:38:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:38:38>>
+ComPortMonitor.Receiver: 
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+3L|1|N FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:38:38>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:39:11>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.06.28.0--------
+
+Send :
+14:39:11>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:39:11>>
+ComPortMonitor.Receiver: 
+
+
+
+--------V.22.06.28.0--------
+
+Send :
+14:39:11>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:39:11>>
+ComPortMonitor.Receiver: 
+
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:39:11>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:39:11>>
+ComPortMonitor.Receiver: 
+
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+14:39:12>>
+ComPortMonitor.Receiver: 
+
+
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+3L|1|N FF
+
+--------V.22.06.28.0--------
+
+Send :
+14:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Start :
+15:7:6>>
+COM7 Start !
+--------V.22.06.28.0--------
+
+Receive :
+15:7:21>>
+ComPortMonitor.Receiver: 
+--------V.22.06.28.0--------
+
+Send :
+15:7:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:7:21>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.28.0--------
+
+Send :
+15:7:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:7:21>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:7:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:7:21>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:7:21>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:7:22>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+3L|1|N FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:7:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Send :
+15:7:22>>
+Send To SF8050.
+--------
+
+SF8050 :
+15:7:22>>
+1H|P|1|2022062915072246
+2P|8103846
+3O|1|^81038||^^^001-46
+L|146
+
+--------
+
+Send :
+15:7:22>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.28.0--------
+
+Send :
+15:7:22>>
+ComPortMonitor.Send: 1H|P|1|2022062915072246
+2P|8103846
+3O|1|^81038||^^^001-46
+L|146
+
+--------V.22.06.28.0--------
+
+Send :
+15:7:22>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.28.0--------
+
+Start :
+15:10:37>>
+COM7 Start !
+--------V.22.06.28.0--------
+
+Start :
+15:10:52>>
+COM7 Start !
+--------V.22.06.28.0--------
+
+Receive :
+15:11:2>>
+ComPortMonitor.Receiver: 
+--------V.22.06.28.0--------
+
+Send :
+15:11:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:11:2>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:11:2>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:11:2>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Receive :
+15:11:2>>
+ComPortMonitor.Receiver: 
+1H|\\^&||||||||||Q|1|201505 051151 FF
+2Q|1^81038|||R FF
+3L|1|N FF
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+Send To SF8050.
+--------
+
+SF8050 :
+15:11:3>>
+1H|P|1|2022062915110340
+2P|8103812
+3O|1|^81038||^^^001-ED
+4L|13D
+
+--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: 1H|P|1|2022062915110340
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: 2P|8103812
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: 3O|1|^81038||^^^001-ED
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.22.06.28.0--------
+
+Send :
+15:11:3>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.28.0--------
+

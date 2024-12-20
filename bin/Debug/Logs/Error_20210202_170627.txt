@@ -1,0 +1,5 @@
+Error :
+17:6:27>>
+GetTestLisConnection : Login failed for user 'sa'.
+--------
+

@@ -1,0 +1,1208 @@
+Start :
+11:32:35>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Start :
+11:32:58>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver1: 
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver: 
+--------V.22.07.01.1--------
+
+Send :
+11:33:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:6>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:6>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:7>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:7>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:7>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver1: 
+
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver: 
+
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver1: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:51>>
+ComPortMonitor.Receiver: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:51>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:52>>
+ComPortMonitor.Receiver1: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:52>>
+ComPortMonitor.Receiver: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:52>>
+ComPortMonitor.Receiver1: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:33:52>>
+ComPortMonitor.Receiver: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:33:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:33:52>>
+ComPortMonitor.Receiver1: 
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:34:49>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:34:49>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:34:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:34:56>>
+ComPortMonitor.Receiver1: 
+
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:34:56>>
+ComPortMonitor.Receiver: 
+
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:34:56>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:35:19>>
+ComPortMonitor.Receiver1: 
+
+
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver: 
+
+
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:36:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver1: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:36:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver1: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:36:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver1: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:36:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:36:0>>
+ComPortMonitor.Receiver1: 
+
+
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Start :
+11:38:14>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Start :
+11:38:37>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:39:12>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:39:12>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Error :
+11:39:29>>
+ComportMonitor.Receiver: Index and length must refer to a location within the string.
+Parameter name: length
+--------V.22.07.01.1--------
+
+Receive :
+11:40:10>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:40:10>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:40:10>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Start :
+11:40:55>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver1: 
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver: 
+--------V.22.07.01.1--------
+
+Send :
+11:41:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+11:41:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:41:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:2>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:41:3>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:41:3>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:41:3>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:41:3>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Start :
+11:44:56>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver: 
+--------V.22.07.01.1--------
+
+Send :
+11:45:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+11:45:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+11:45:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:45:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:45:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:17>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+11:45:18>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+11:45:18>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+11:45:18>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Start :
+12:21:25>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+12:21:41>>
+ComPortMonitor.Receiver1: 
+--------V.22.07.01.1--------
+
+Receive :
+12:21:41>>
+ComPortMonitor.Receiver: 
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver: 
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:42>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.07.01.1--------
+
+Receive :
+12:21:42>>
+ComPortMonitor.Receiver1: 
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010085833<CR>
+2Q|1|^81039||ALL||||||||O<CR>
+3L|1|F<CR>
+
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+Send To Access2.
+--------
+
+Access2 :
+12:21:48>>
+H|\^&|||Host LIS|||||||P|1|202207041221486E
+P|1|AbelCindyF4
+O|1|81039||^^^Cortisol|||||||||||Serum||||||||||F6C
+O|2|81039||^^^Dig|||||||||||Serum||||||||||F32
+L|1|FCB
+
+--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: H|\^&|||Host LIS|||||||P|1|202207041221486E
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: P|1|AbelCindyF4
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: O|1|81039||^^^Cortisol|||||||||||Serum||||||||||F6C
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: O|2|81039||^^^Dig|||||||||||Serum||||||||||F32
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: L|1|FCB
+
+--------V.22.07.01.1--------
+
+Send :
+12:21:48>>
+ComPortMonitor.Send: <EOT>
+--------V.22.07.01.1--------
+
+Receive :
+12:22:48>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+P|1|23445<CR>
+O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+12:22:48>>
+ComportMonitor.Receiver: Index and length must refer to a location within the string.
+Parameter name: length
+--------V.22.07.01.1--------
+
+Receive :
+12:25:16>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+P|1|23445<CR>
+O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+L|1|F<CR>
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+12:25:16>>
+ComportMonitor.Receiver: Index and length must refer to a location within the string.
+Parameter name: length
+--------V.22.07.01.1--------
+
+Receive :
+12:25:44>>
+ComPortMonitor.Receiver1: 
+H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+P|1|23445<CR>
+O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+L|1|F<CR>
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Start :
+12:26:39>>
+COM7 Start !
+--------V.22.07.01.1--------
+
+Receive :
+12:26:47>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^TSH^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^TSH^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+12:37:10>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 123458
+--------
+
+Receive :
+12:38:42>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^Cortisol^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^Dig^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+12:38:44>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 123458
+--------
+
+Receive :
+12:41:8>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||ACCESS^500001|||||LIS||P|1|20001010131522<CR>
+2P|1|23445<CR>
+3O|1|81039|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+4R|1|^^^Cortisol^1|0.03|uIU/mL||N||F||||20020131113612<CR>
+5O|2|123458|^9^2|^^^TSH^1|||||||||||Serum||||||||||F<CR>
+6R|2|^^^Dig^2|0.01|uIU/mL||N||F||||20020131113648<CR>
+7L|1|F<CR>
+
+--------V.22.07.01.1--------
+
+Error :
+12:41:8>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 123458
+--------
+

@@ -1,0 +1,11 @@
+DX300 :
+16:40:42>>
+TESTGolf
+--------
+
+Error :
+16:40:43>>
+ComportMonitor.New: The PortName cannot be empty.
+Parameter name: PortName
+--------V.8.11.12.1--------
+

@@ -1,0 +1,10 @@
+Connection :
+9:40:5>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.18.2--------
+
+Connection :
+11:26:56>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_Golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.12.18.2--------
+

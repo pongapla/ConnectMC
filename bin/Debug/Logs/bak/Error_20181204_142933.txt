@@ -1,0 +1,5 @@
+Receive :
+14:29:34>>
+ComPortMonitor.Receiver: 
+--------V.8.12.4.2--------
+

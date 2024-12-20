@@ -1,0 +1,12 @@
+Error :
+15:16:33>>
+GetTestLisConnection : Cannot open database "iSLIM_VHS" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+
+Error :
+15:16:33>>
+TestLisConnection : Cannot open database "iSLIM_VHS" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+

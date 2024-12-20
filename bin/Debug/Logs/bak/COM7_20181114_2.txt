@@ -1,0 +1,550 @@
+Start :
+10:35:49>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+10:36:27>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+10:36:48>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+10:36:58>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Receive :
+13:49:44>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 538.0331 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:49:58>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:49:59>>
+ComPortMonitor.Receiver  out Loop.:  Time : 350.345 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:49:59>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 350.3901 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:13>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:50:14>>
+ComPortMonitor.Receiver  out Loop.:  Time : 350.6425 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:14>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 350.6887 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:29>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:50:29>>
+ComPortMonitor.Receiver  out Loop.:  Time : 368.1204 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:29>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 368.1599 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:44>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:50:44>>
+ComPortMonitor.Receiver  out Loop.:  Time : 349.545 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:44>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 349.5695 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:50:59>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:50:59>>
+ComPortMonitor.Receiver  out Loop.:  Time : 373.0401 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:0>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 373.1029 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:14>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:51:14>>
+ComPortMonitor.Receiver  out Loop.:  Time : 366.309 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:15>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 366.3588 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:29>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:51:30>>
+ComPortMonitor.Receiver  out Loop.:  Time : 373.1922 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:30>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 373.2519 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:44>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:51:45>>
+ComPortMonitor.Receiver  out Loop.:  Time : 351.8621 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:51:45>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 351.9043 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:52:0>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:52:0>>
+ComPortMonitor.Receiver  out Loop.:  Time : 381.4845 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:52:0>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 381.5264 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:52:15>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+13:52:15>>
+ComPortMonitor.Receiver  out Loop.:  Time : 328.8624 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+13:52:15>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 328.9173 Milliseconds
+--------V.8.11.13.2--------
+
+Start :
+14:21:59>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+14:22:5>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+14:22:14>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+14:22:22>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+ :
+16:12:40>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:41>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:42>>
+ComportMonitor.Error Start(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+ :
+16:12:43>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:44>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:44>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+ :
+16:12:45>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:46>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:46>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+ :
+16:12:47>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:48>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:49>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+ :
+16:12:50>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:52>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:53>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+ :
+16:12:54>>
+COM7 The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:56>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:12:57>>
+ComportMonitor.Error StartStopAndStart(): The port 'COM7' does not exist.
+--------V.8.11.13.2--------
+
+Start :
+16:12:59>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+ :
+16:13:1>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:3>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:4>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:6>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:8>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:9>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:11>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:13>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:14>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:16>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:18>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:20>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:22>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:23>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:25>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:27>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:13:29>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:13:30>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:13:32>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Receive :
+16:13:34>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+16:13:38>>
+ComPortMonitor.Receiver  out Loop.:  Time : 3453.7207 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:13:44>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 3453.7626 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:13:51>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+16:13:56>>
+ComPortMonitor.Receiver  out Loop.:  Time : 5106.1035 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:14:1>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 5106.1411 Milliseconds
+--------V.8.11.13.2--------
+
+Start :
+16:14:10>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+16:14:12>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+ :
+16:14:13>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:15>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:14:16>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:14:17>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:19>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:14:20>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:14:22>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:23>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:14:25>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:14:26>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:27>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:14:29>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+ :
+16:14:30>>
+COM7 Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:32>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Error :
+16:14:33>>
+ComportMonitor.Error StartStopAndStart(): Access to the port 'COM7' is denied.
+--------V.8.11.13.2--------
+
+Start :
+16:14:39>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Receive :
+16:14:47>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+16:14:47>>
+ComPortMonitor.Receiver  out Loop.:  Time : 343.6594 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:14:48>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 344.3828 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:15:2>>
+ComPortMonitor.Receiver: 
+--------V.8.11.13.2--------
+
+Receive :
+16:15:2>>
+ComPortMonitor.Receiver  out Loop.:  Time : 374.6741 Milliseconds
+--------V.8.11.13.2--------
+
+Receive :
+16:15:3>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 374.7041 Milliseconds
+--------V.8.11.13.2--------
+
+Start :
+17:25:2>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+17:25:5>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+17:25:29>>
+COM7 Start !
+--------V.8.11.13.2--------
+

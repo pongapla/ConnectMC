@@ -1,0 +1,10 @@
+Start :
+14:22:55>>
+COM3 Start !
+--------V.8.12.4.2--------
+
+Error :
+14:22:56>>
+ComportMonitor.Error Start(): The port 'COM3' does not exist.
+--------V.8.12.4.2--------
+

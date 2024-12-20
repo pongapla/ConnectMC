@@ -1,0 +1,80 @@
+Connection :
+14:1:57>>
+ Connect Server Database Success. (Server : ., Database : interfaceDB, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:13:1>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:21:27>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:22:54>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:25:56>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:27:47>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+14:29:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:8:2>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:12:7>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:16:10>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:20:46>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:29:37>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:33:3>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:36:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:46:9>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+
+Connection :
+15:49:52>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PKH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.03.17.0--------
+

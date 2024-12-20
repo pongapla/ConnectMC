@@ -1,0 +1,110 @@
+Connection :
+9:10:51>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+9:11:34>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+9:27:40>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+9:55:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+10:40:36>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+14:32:15>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.26.4--------
+
+Connection :
+17:10:31>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.0--------
+
+Connection :
+17:11:8>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.1--------
+
+Connection :
+18:37:34>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.3--------
+
+Connection :
+19:8:18>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.4--------
+
+Connection :
+19:21:42>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.5--------
+
+Connection :
+19:37:38>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+19:49:14>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+19:59:7>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+20:2:13>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+20:4:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+20:12:6>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+20:22:0>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.6--------
+
+Connection :
+20:25:48>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.7--------
+
+Connection :
+22:26:58>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.8--------
+
+Connection :
+22:43:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.9--------
+
+Connection :
+22:51:39>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_PTR, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.22.05.27.10--------
+

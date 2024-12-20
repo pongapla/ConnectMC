@@ -1,0 +1,145 @@
+Start :
+16:12:4>>
+COM7 Start !
+--------V.8.11.19.1--------
+
+Receive :
+16:12:38>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:12:38>>
+ComPortMonitor.Receiver  out Loop.:  Time : 484.7277 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:12:39>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 485.3815 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:12:53>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:12:53>>
+ComPortMonitor.Receiver  out Loop.:  Time : 329.0141 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:12:54>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 329.0358 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:8>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:13:8>>
+ComPortMonitor.Receiver  out Loop.:  Time : 328.9627 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:9>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 328.9868 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:23>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:13:23>>
+ComPortMonitor.Receiver  out Loop.:  Time : 324.1619 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:24>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 324.1852 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:50>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:13:51>>
+ComPortMonitor.Receiver  out Loop.:  Time : 332.4614 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:13:51>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 332.4851 Milliseconds
+--------V.8.11.19.1--------
+
+Start :
+16:15:57>>
+COM7 Start !
+--------V.8.11.19.1--------
+
+Receive :
+16:16:0>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:16:0>>
+ComPortMonitor.Receiver  out Loop.:  Time : 343.1826 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:16:0>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 343.9158 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:16:15>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:16:15>>
+ComPortMonitor.Receiver  out Loop.:  Time : 323.0743 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:16:15>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 323.1229 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:16:30>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:16:30>>
+ComPortMonitor.Receiver  out Loop.:  Time : 333.4747 Milliseconds
+--------V.8.11.19.1--------
+
+Receive :
+16:16:31>>
+DeviceControlApp.AnalyzerInterface(after  Time) : 333.5419 Milliseconds
+--------V.8.11.19.1--------
+
+Start :
+16:34:47>>
+COM7 Start !
+--------V.8.11.19.1--------
+
+Receive :
+16:35:6>>
+ComPortMonitor.Receiver: 
+--------V.8.11.19.1--------
+
+Receive :
+16:35:7>>
+ComPortMonitor.Receiver  out Loop.:  Time : 360.5969 Milliseconds
+--------V.8.11.19.1--------
+

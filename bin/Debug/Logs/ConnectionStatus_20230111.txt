@@ -1,0 +1,5 @@
+Connection :
+13:38:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_KSP, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.23.01.11.0--------
+

@@ -1,0 +1,45 @@
+Connection :
+13:59:53>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:0:31>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:1:33>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:2:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:2:46>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:3:22>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:3:30>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:5:50>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+14:5:58>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+

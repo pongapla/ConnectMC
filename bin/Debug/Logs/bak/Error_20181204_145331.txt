@@ -1,0 +1,5 @@
+Send :
+14:53:31>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.4.2--------
+

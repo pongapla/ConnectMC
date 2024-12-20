@@ -1,0 +1,18 @@
+Send :
+14:29:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.4.2--------
+
+Receive :
+14:29:36>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018120414285438
+2Q|1|^180316131||^^^ALL||||||||OFC
+3L|13C
+
+--------V.8.12.4.2--------
+
+Send :
+14:29:37>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.4.2--------
+

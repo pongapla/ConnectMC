@@ -1,0 +1,12 @@
+Error :
+16:8:28>>
+GetTestLisConnection : Cannot open database "iSLIM_interfaceDB" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+
+Error :
+16:8:28>>
+TestLisConnection : Cannot open database "iSLIM_interfaceDB" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+

@@ -1,0 +1,10 @@
+Receive :
+14:53:24>>
+ComPortMonitor.Receiver: 
+--------V.8.12.4.2--------
+
+Send :
+14:53:25>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.12.4.2--------
+

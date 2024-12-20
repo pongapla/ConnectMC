@@ -1,0 +1,20 @@
+Connection :
+12:0:45>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+12:3:31>>
+ Connect Server Database Success. (Server : 192.168.10.249, Database : iSLIM_HPH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+12:5:12>>
+ Connect Server Database Success. (Server : 192.168.10.249, Database : iSLIM_HPH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+
+Connection :
+12:6:34>>
+ Connect Server Database Success. (Server : 192.168.10.249, Database : iSLIM_HPH, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.1.4.2--------
+

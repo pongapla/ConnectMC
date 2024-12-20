@@ -1,0 +1,15 @@
+Connection :
+16:40:10>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.2--------
+
+Connection :
+16:48:57>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.2--------
+
+Connection :
+16:49:22>>
+ Connect Server Database Success. (Server : 192.168.10.248, Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.20.07.29.2--------
+

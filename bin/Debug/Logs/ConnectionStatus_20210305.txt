@@ -1,0 +1,55 @@
+Connection :
+10:16:31>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.2.16.2--------
+
+Connection :
+11:43:49>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.2.16.2--------
+
+Connection :
+15:8:56>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+15:26:22>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:11:17>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:31:8>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:42:17>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:48:41>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:52:5>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:53:46>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.1--------
+
+Connection :
+21:59:34>>
+ Connect Server Database Success. (Server : ., Database : islim_golf, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.21.3.5.2--------
+

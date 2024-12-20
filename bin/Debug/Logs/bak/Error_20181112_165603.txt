@@ -1,0 +1,10 @@
+DX300 :
+16:56:3>>
+TESTGolf
+--------
+
+Test H-500-001 :
+16:56:3>>
+String was not recognized as a valid DateTime.
+--------
+

@@ -1,0 +1,35 @@
+Connection :
+10:21:57>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_NWM, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.12.1--------
+
+Connection :
+10:27:23>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.12.1--------
+
+Connection :
+10:29:14>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.12.1--------
+
+Connection :
+10:33:47>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.12.1--------
+
+Connection :
+10:35:33>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.13.1--------
+
+Connection :
+11:21:34>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.13.2--------
+
+Connection :
+15:39:54>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.2.13.2--------
+

@@ -1,0 +1,5 @@
+Connection :
+14:10:30>>
+ Connect Server Database Success. (Server : 192.168.2.101, Database : lab, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.12.4.1--------
+

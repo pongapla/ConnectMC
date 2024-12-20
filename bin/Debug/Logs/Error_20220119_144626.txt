@@ -1,0 +1,6 @@
+Error :
+14:46:26>>
+GetTestLisConnection : Cannot open database "iSLLIM_KSP" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------
+

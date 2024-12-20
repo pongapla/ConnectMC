@@ -1,0 +1,163 @@
+Start :
+16:19:20>>
+COM7 Start !
+--------V.22.05.31.0--------
+
+Receive :
+16:19:31>>
+ComPortMonitor.Receiver1: 
+--------V.22.05.31.0--------
+
+Receive :
+16:19:31>>
+ComPortMonitor.Receiver: 
+--------V.22.05.31.0--------
+
+Send :
+16:19:31>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:32>>
+ComPortMonitor.Receiver1: 
+
+--------V.22.05.31.0--------
+
+Receive :
+16:19:32>>
+ComPortMonitor.Receiver: 
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:32>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:33>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+
+--------V.22.05.31.0--------
+
+Receive :
+16:19:33>>
+ComPortMonitor.Receiver: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:33>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:34>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+
+--------V.22.05.31.0--------
+
+Receive :
+16:19:34>>
+ComPortMonitor.Receiver: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:34>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:35>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+L|1|N
+
+--------V.22.05.31.0--------
+
+Receive :
+16:19:35>>
+ComPortMonitor.Receiver: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+L|1|N
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:35>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:36>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+L|1|N
+F4
+
+--------V.22.05.31.0--------
+
+Receive :
+16:19:36>>
+ComPortMonitor.Receiver: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+L|1|N
+F4
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.05.31.0--------
+
+Receive :
+16:19:37>>
+ComPortMonitor.Receiver1: 
+1H|\^&|||cobas6000^1|||||host|TSREQ^REAL|P|1
+Q|1|^^             234567891^0^5026^3^^S1^SC||ALL||||||||O
+L|1|N
+F4
+
+
+--------V.22.05.31.0--------
+
+Error :
+16:19:37>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 234567891
+--------
+
+Send :
+16:19:37>>
+Send To Cobas6000.
+--------
+
+Cobas6000 :
+16:19:37>>
+1H|\^&|||Host||||||TSDWN^REPLYP|1|||||||M||||||40^YO|1|234567891|0^5026^3^^S1^SC||R||20220531161937||||N||||1||||||||||OC|1|L|Herbert·Mustermann^^^^|GL|1|NA0
+
+--------
+
+Send :
+16:19:45>>
+ComPortMonitor.Send: 1H|\^&|||Host||||||TSDWN^REPLYP|1|||||||M||||||40^YO|1|234567891|0^5026^3^^S1^SC||R||20220531161937||||N||||1||||||||||OC|1|L|Herbert·Mustermann^^^^|GL|1|NA0
+
+--------V.22.05.31.0--------
+
+Send :
+16:19:46>>
+ComPortMonitor.Send: <EOT>
+--------V.22.05.31.0--------
+

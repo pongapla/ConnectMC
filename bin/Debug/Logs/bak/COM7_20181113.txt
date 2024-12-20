@@ -1,0 +1,150 @@
+Receive :
+9:44:9>>
+ComPortMonitor.Receiver: 
+--------V.8.11.12.7--------
+
+Receive :
+9:44:24>>
+ComPortMonitor.Receiver: 
+--------V.8.11.12.7--------
+
+Receive :
+9:44:39>>
+ComPortMonitor.Receiver: 
+--------V.8.11.12.7--------
+
+Start :
+9:46:8>>
+COM7 Start !
+--------V.8.11.12.7--------
+
+Receive :
+9:46:18>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.12.7--------
+
+Start :
+9:52:35>>
+COM7 Start !
+--------V.8.11.12.7--------
+
+Receive :
+9:53:36>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.12.7--------
+
+Start :
+10:5:45>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Receive :
+10:6:40>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Start :
+10:9:23>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:9:24>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Receive :
+10:9:40>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:9:57>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:10:8>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Start :
+10:12:23>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:12:42>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Receive :
+10:13:0>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:13:15>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:13:30>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Start :
+10:14:30>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:15:3>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Receive :
+10:15:9>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:15:24>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Receive :
+10:15:39>>
+ComPortMonitor.Receiver.: 
+--------V.8.11.13.1--------
+
+Start :
+10:18:41>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:18:46>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:35:19>>
+COM7 Start !
+--------V.8.11.13.1--------
+
+Start :
+10:37:7>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+10:42:41>>
+COM7 Start !
+--------V.8.11.13.2--------
+
+Start :
+13:10:41>>
+COM7 Start !
+--------V.8.11.13.2--------
+

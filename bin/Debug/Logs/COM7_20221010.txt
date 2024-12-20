@@ -1,0 +1,74 @@
+Start :
+11:18:13>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+11:20:3>>
+ComPortMonitor.Receiver: 
+--------V.22.10.07.0--------
+
+Start :
+11:22:44>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+12:1:57>>
+ComPortMonitor.Receiver: 
+--------V.22.10.07.0--------
+
+Start :
+14:10:10>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+14:10:20>>
+ComPortMonitor.Receiver: 004  112224  063 5.25 151.6 110.8 1.40 7.59 42.0
+
+--------V.22.10.07.0--------
+
+Start :
+14:11:13>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+14:12:25>>
+ComPortMonitor.Receiver: 004  112224  063 5.25 151.6 110.8 1.40 7.59 42.0
+
+--------V.22.10.07.0--------
+
+Error :
+14:20:56>>
+AnalyzerInterface.ExtractResult: Object reference not set to an instance of an object.
+--------
+
+Start :
+14:29:52>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+14:31:31>>
+ComPortMonitor.Receiver: 004  112224  063 5.25 151.6 110.8 1.40 7.59 42.0
+
+--------V.22.10.07.0--------
+
+Start :
+16:14:39>>
+COM7 Start !
+--------V.22.10.07.0--------
+
+Receive :
+16:15:46>>
+ComPortMonitor.Receiver: 004  112224  063 5.25 151.6 110.8 1.40 7.59 42.0
+
+--------V.22.10.07.0--------
+
+Error :
+16:20:14>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 112224
+--------
+

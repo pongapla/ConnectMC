@@ -1,0 +1,15 @@
+Connection :
+7:38:4>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.11.25.1--------
+
+Connection :
+10:9:45>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.11.25.1--------
+
+Connection :
+10:12:11>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HU, User : sa, AutoStart : True, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.11.25.1--------
+

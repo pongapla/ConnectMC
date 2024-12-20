@@ -1,0 +1,20 @@
+Connection :
+16:29:6>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HCPK, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.7.9.1--------
+
+Connection :
+16:30:32>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HCPK, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.7.9.1--------
+
+Connection :
+16:32:48>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HCPK, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.7.9.1--------
+
+Connection :
+16:34:14>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_HCPK, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.9.7.25.1--------
+

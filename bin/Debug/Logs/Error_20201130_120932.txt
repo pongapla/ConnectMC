@@ -1,0 +1,15 @@
+Error :
+12:9:32>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Bilirubin*
+--------
+
+Error :
+12:9:32>>
+AnalyzerInterface.UpdateFormula_loop: Formula is incorrect. Formula: "= IF(ISNUMBER(3+),IF(3+=0,"Negative",IF(3+=5,"Trace",IF(3+=10,"1+",IF(3+=50,"2+",IF(3+=250,"3+"))))),"Negative")", Culture: en-US.
+--------
+
+Error :
+12:9:32>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Leukocyte*
+--------
+

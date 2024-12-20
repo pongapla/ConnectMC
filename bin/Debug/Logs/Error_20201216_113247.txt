@@ -1,0 +1,5 @@
+Error :
+11:32:47>>
+AnalyzerInterface.UpdateFormula_loop: Formula is incorrect. Formula: "= IF(ISNUMBER(3+),IF(3+=0,"Negative",IF(3+=100,"Trace",IF(3+=250,"1+",IF(3+=500,"2+",IF(3+=1000,"3+"))))),"Negative")", Culture: en-US.
+--------
+

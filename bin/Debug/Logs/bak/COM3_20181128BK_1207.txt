@@ -1,0 +1,89 @@
+Receive :
+12:7:25>>
+ComPortMonitor.Receiver: 
+--------V.8.11.26.2--------
+
+Send :
+12:7:26>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+12:7:26>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112812072031
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:27>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+12:7:27>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112812072031
+2Q|1|^2819||^^^ALL||||||||O08
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:27>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+12:7:28>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112812072031
+2Q|1|^2819||^^^ALL||||||||O08
+3L|13C
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:28>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Send :
+12:7:28>>
+Send to Architect i1000.
+--------
+
+Imola :
+12:7:28>>
+1H|\^&|||Host|||||||P|1|201811281207289F
+2P|1|999999999||||||||||||8C
+3O|1|2819||^^^3004
+4L|13D
+
+--------
+
+Send :
+12:7:28>>
+ComPortMonitor.Send: <ENQ>
+--------V.8.11.26.2--------
+
+Send :
+12:7:29>>
+ComPortMonitor.Send: 1H|\^&|||Host|||||||P|1|201811281207289F
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:29>>
+ComPortMonitor.Send: 2P|1|999999999||||||||||||8C
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:29>>
+ComPortMonitor.Send: 3O|1|2819||^^^3004
+
+--------V.8.11.26.2--------
+
+Send :
+12:7:30>>
+ComPortMonitor.Send: 4L|13D
+
+--------V.8.11.26.2--------
+

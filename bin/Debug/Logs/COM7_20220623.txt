@@ -1,0 +1,1320 @@
+Start :
+14:6:6>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Start :
+14:6:48>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:6:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:6:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:13>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:14>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:14>>
+ComPortMonitor.Receiver: 
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:14>>
+ComPortMonitor.Receiver: 
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:14>>
+ComPortMonitor.Receiver: 
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:7:14>>
+ComPortMonitor.Receiver: 
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:7:14>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:8:0>>
+ComPortMonitor.Receiver: 
+
+
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:8:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Error :
+14:15:48>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 81037
+--------
+
+Send :
+14:15:48>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:15:48>>
+MSH|^~\&|||||20220623141548||OML^O21|1249|||||AL|NE
+2Q|1|^81037||^^^ALL||||||||X40
+3SAC|10F7
+
+--------
+
+Send :
+14:15:48>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:15:48>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623141548||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:48>>
+ComPortMonitor.Send: 2Q|1|^81037||^^^ALL||||||||X40
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:48>>
+ComPortMonitor.Send: 3SAC|10F7
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:48>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:51>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:52>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:15:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:15:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Start :
+14:19:44>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:22:47>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:47>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:22:48>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:22:48>>
+MSH|^~\&|||||20220623142248||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:22:48>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:22:48>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623142248||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:48>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:48>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:22:48>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:36>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:24:36>>
+MSH|^~\&|||||20220623142436||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623142436||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:36>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:24:49>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:49>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:24:50>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:24:50>>
+MSH|^~\&|||||20220623142450||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:24:50>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:24:50>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623142450||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:50>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:50>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:24:50>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Start :
+14:24:59>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:5>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:5>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:25:6>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:25:6>>
+MSH|^~\&|||||20220623142506||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:25:6>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:25:6>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623142506||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:6>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:6>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:6>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:25:22>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:25:22>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:30:42>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:30:42>>
+MSH|^~\&|||||20220623143042||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:30:42>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:30:42>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623143042||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:42>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:42>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:42>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Start :
+14:30:47>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:30:54>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+Send to A2000.
+--------
+
+GEM4000 :
+14:30:54>>
+MSH|^~\&|||||20220623143054||OML^O21|1249|||||AL|NE
+2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+4SAC|10F8
+
+--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send: <ENQ>
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send: MSH|^~\&|||||20220623143054||OML^O21|1249|||||AL|NE
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send: 2OBR|1|99999|81037|001~||||||O||||BLDA^^N^^^^P|Freeman^Dyson^JCE
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send: 4SAC|10F8
+
+--------V.22.06.16.0--------
+
+Send :
+14:30:54>>
+ComPortMonitor.Send: <EOT>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+14:31:7>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+14:31:7>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Start :
+16:36:44>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:36:52>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+16:36:52>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Start :
+16:38:11>>
+COM7 Start !
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+
+Receive :
+16:38:17>>
+ComPortMonitor.Receiver: 
+MSH|^~\&|Autobio|AutoLumo A2000 Plus|||20170306120325||QRY^Q01|1|P|2.3.1|170306120325979
+QRD|20170306120325|R|D|81037|||RD|14081916|OTH|||T
+QRF|AutoLumo A2000 Plus|20170306000000|20170306120325|||RCT|COR|AL
+E6
+
+--------V.22.06.16.0--------
+
+Send :
+16:38:17>>
+ComPortMonitor.Send.: <ACK>
+--------V.22.06.16.0--------
+

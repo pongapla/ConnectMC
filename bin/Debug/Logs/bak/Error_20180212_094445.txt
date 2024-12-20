@@ -1,0 +1,5 @@
+Test H-500-001 :
+9:44:45>>
+The file 'D:\Project\Innotech.AnalyzerInterface\DeviceControlApp\bin\Debug\Logs\cal\2.txt' already exists.
+--------
+

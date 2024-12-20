@@ -1,0 +1,11 @@
+Error :
+16:26:45>>
+ComportMonitor.New: The PortName cannot be empty.
+Parameter name: PortName
+--------V.8.11.12.1--------
+
+Error :
+16:26:45>>
+AnalyzerInterface.ExtractResult: 
+--------
+

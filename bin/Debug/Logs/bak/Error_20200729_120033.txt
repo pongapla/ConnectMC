@@ -1,0 +1,5 @@
+Error :
+12:0:33>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. 200045571
+--------
+

@@ -1,0 +1,133 @@
+Start :
+15:54:37>>
+COM3 Start !
+--------V.8.11.26.2--------
+
+Start :
+15:54:58>>
+COM3 Start !
+--------V.8.11.26.2--------
+
+Start :
+16:29:15>>
+COM3 Start !
+--------V.8.11.26.2--------
+
+Receive :
+16:29:59>>
+ComPortMonitor.Receiver: 
+--------V.8.11.26.2--------
+
+Send :
+16:29:59>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:0>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:0>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:1>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:1>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:1>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+3O|1|180306400|180306400^C182^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F21
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:2>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:2>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+3O|1|180306400|180306400^C182^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F21
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||FSE^FSE||20181126131856|i1SR01793F3
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:3>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:3>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+3O|1|180306400|180306400^C182^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F21
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||FSE^FSE||20181126131856|i1SR01793F3
+5R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||FSE^FSE||20181126131856|i1SR01793DF
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:3>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:4>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+3O|1|180306400|180306400^C182^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F21
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||FSE^FSE||20181126131856|i1SR01793F3
+5R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||FSE^FSE||20181126131856|i1SR01793DF
+6R|3|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^P|374|RLU||||R||FSE^FSE||20181126131856|i1SR0179346
+
+--------V.8.11.26.2--------
+
+Send :
+16:30:4>>
+ComPortMonitor.Send.: <ACK>
+--------V.8.11.26.2--------
+
+Receive :
+16:30:4>>
+ComPortMonitor.Receiver: 1H|\^&|||ARCHITECT^9.25^F3453440219^H1P1O1R1C1Q1L1|||||||P|1|2018112716304032
+2P|1|||||||UF8
+3O|1|180306400|180306400^C182^2|^^^30^B-hCG STAT^UNDILUTED^P|R||||||||||||||||||||F21
+4R|1|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F|< 1.20|mIU/mL||<||R||FSE^FSE||20181126131856|i1SR01793F3
+5R|2|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^I|Negative|||||R||FSE^FSE||20181126131856|i1SR01793DF
+6R|3|^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^P|374|RLU||||R||FSE^FSE||20181126131856|i1SR0179346
+7L|140
+
+--------V.8.11.26.2--------
+
+Error :
+16:30:5>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. ^^^30^B-hCG STAT^UNDILUTED^P^92049UI00^07164^^F
+--------
+
+Error :
+17:47:22>>
+AnalyzerInterface.GetResultCode: No test order for Specimen ID. ^180306400
+--------
+
+Error :
+17:47:22>>
+AnalyzerInterface.ReturnOrderDetail_ex: There is no row at position 0.
+--------
+

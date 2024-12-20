@@ -1,0 +1,5 @@
+Connection :
+18:28:47>>
+ Connect Server Database Success. (Server : ., Database : iSLIM_SRS, User : sa, AutoStart : False, WaitConnectSecond : 3,WriteLog : True )
+--------V.8.12.20.1--------
+

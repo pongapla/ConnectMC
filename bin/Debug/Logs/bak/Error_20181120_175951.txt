@@ -1,0 +1,5 @@
+Error :
+17:59:51>>
+AnalyzerInterface.UpdateFormula_loop: Not Found Value Of Result Item : Urobilinogen*
+--------
+

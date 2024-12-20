@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Config>
+    <ServerName>(locl)</ServerName>
+    <DatabaseName>LISDB</DatabaseName>
+    <InstanceName />
+    <HaveInterface>False</HaveInterface>
+  </Config>
+</NewDataSet>
